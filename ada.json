@@ -1,0 +1,1807 @@
+[
+  {
+    "unit": "UNIT-01",
+    "questions": [
+      {
+        "serial_number": "Q.1",
+        "question_text": "Solve the following recurrence relations using the substitution method.\n$$T(n) = \\begin{cases} 1 & n \\le 4 \\\\ 2T(\\sqrt{n}) + \\log n & n > 4 \\end{cases}$$",
+        "exam_year_month": "June 2025",
+        "original_question_number": "1. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.2",
+        "question_text": "The worst case time of procedure merge sort is $$O(n \\log n)$$. What is its best case time? Can we say that the time for merge sort is $$O(n \\log n)$$?",
+        "exam_year_month": "June 2025",
+        "original_question_number": "1. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.3",
+        "question_text": "Show that DFS visits all vertices in G reachable from V.",
+        "exam_year_month": "June 2025",
+        "original_question_number": "5. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.4",
+        "question_text": "Write an algorithm to delete an element x from a binary search tree t. What is the time complexity of your algorithm?",
+        "exam_year_month": "June 2025",
+        "original_question_number": "6. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.5",
+        "question_text": "What do you mean by balance factor in AVL tree? Give a suitable example to balance a AVL tree.",
+        "exam_year_month": "June 2025",
+        "original_question_number": "6. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.6",
+        "question_text": "Write short notes on following : B-Trees",
+        "exam_year_month": "June 2025",
+        "original_question_number": "8. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.7",
+        "question_text": "Write short notes on following : Tree Traversal",
+        "exam_year_month": "June 2025",
+        "original_question_number": "8. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.8",
+        "question_text": "Give the asymptotic bounds for the equation $$f(n)=2n_2-4n+20$$ and represent it in terms of $$\\theta$$ notation.",
+        "exam_year_month": "December 2024",
+        "original_question_number": "1. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.9",
+        "question_text": "Define Quicksort? Sort the elements 22, 12, 30, 46, 28, 14, 8, 10, 56, 18, 3 using Merge sort.",
+        "exam_year_month": "December 2024",
+        "original_question_number": "1. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.10",
+        "question_text": "Write an algorithm to find the matrix multiplication using Strassen's method.",
+        "exam_year_month": "December 2024",
+        "original_question_number": "2. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.11",
+        "question_text": "Explain in detail Height balanced tree with an example.",
+        "exam_year_month": "December 2024",
+        "original_question_number": "7. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.12",
+        "question_text": "Write short notes on any two of the following : Binary search algorithm and its time complexity.",
+        "exam_year_month": "December 2024",
+        "original_question_number": "8. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.13",
+        "question_text": "Write short notes on any two of the following : Breadth First Search.",
+        "exam_year_month": "December 2024",
+        "original_question_number": "8. d)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.14",
+        "question_text": "Obtain the asymptotic bound using the substitution method for the recurrence relation $$T(n) = 3T(n/3) + n$$ and represent it in terms of $$\\theta$$ notation.",
+        "exam_year_month": "June 2024",
+        "original_question_number": "1. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.15",
+        "question_text": "What is Merge sort? Sort the elements 20.30.15.11.35.19.12.11.55 using Merge sort.",
+        "exam_year_month": "June 2024",
+        "original_question_number": "1. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.16",
+        "question_text": "Discuss Strassen's matrix multiplication and Classical $$O(n^2)$$ methods. Determine when Strassen's method outperforms classical method.",
+        "exam_year_month": "June 2024",
+        "original_question_number": "2. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.17",
+        "question_text": "Explain in detail about 2-3 Trees with an example.",
+        "exam_year_month": "June 2024",
+        "original_question_number": "7. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.18",
+        "question_text": "Write short notes on following : Binary search algorithm and its time complexity.",
+        "exam_year_month": "June 2024",
+        "original_question_number": "8. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.19",
+        "question_text": "Write short notes on following : Parallel algorithms",
+        "exam_year_month": "June 2024",
+        "original_question_number": "8. c)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.20",
+        "question_text": "Trace the quick sort algorithm to sort the list C, O, L, L, E, G, E in alphabetical order.",
+        "exam_year_month": "June 2023",
+        "original_question_number": "1. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.21",
+        "question_text": "Discuss Strassen's matrix multiplication and derive its time complexity.",
+        "exam_year_month": "June 2023",
+        "original_question_number": "1. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.22",
+        "question_text": "Design merge sort algorithm and discuss its best-case, average-case and worst-case Efficiency.",
+        "exam_year_month": "June 2023",
+        "original_question_number": "2. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.23",
+        "question_text": "Discuss the differences between BFS and DFS.",
+        "exam_year_month": "June 2023",
+        "original_question_number": "7. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.24",
+        "question_text": "What are 2-3 trees used for? Why are 2-3 trees better than BST trees? Write the limitations of 2-3 tree in CSE.",
+        "exam_year_month": "June 2023",
+        "original_question_number": "7. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.25",
+        "question_text": "Heap sort",
+        "exam_year_month": "June 2023",
+        "original_question_number": "8. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.26",
+        "question_text": "Write short notes on following : Height balanced tree",
+        "exam_year_month": "June 2023",
+        "original_question_number": "8. c)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.27",
+        "question_text": "Write short notes on following : Parallel algorithm",
+        "exam_year_month": "June 2023",
+        "original_question_number": "8. d)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.28",
+        "question_text": "Solve the following recurrence relations using the substitution method\n$$T(n) = \\begin{cases} 1 & n \\le 4 \\\\ T(\\sqrt{n}) + C & n > 4 \\end{cases}$$",
+        "exam_year_month": "November 2023",
+        "original_question_number": "1. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.29",
+        "question_text": "Give an algorithm for quick sort and analyze the algorithm.",
+        "exam_year_month": "November 2023",
+        "original_question_number": "1. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.30",
+        "question_text": "Write a function to construct the binary tree with a given inorder sequence I and given postorder sequence P. What is the complexity of the function?",
+        "exam_year_month": "November 2023",
+        "original_question_number": "5. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.31",
+        "question_text": "Give an example of an n-vertex graph for which the depth of recursion of DFS starting from a particular vertex V is n - 1 whereas the queue of BFS has at most one vertex at any given time, if BFS is started from the same vertex V.",
+        "exam_year_month": "November 2023",
+        "original_question_number": "5. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.32",
+        "question_text": "What do you mean by performance analysis of an algorithm? Explain.",
+        "exam_year_month": "November 2023",
+        "original_question_number": "6. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.33",
+        "question_text": "Explain Heap? Sort the following data using heap sort.\n81, 39, 10, 36, 45, 15, 55, 23, 91, 88, 12",
+        "exam_year_month": "November 2023",
+        "original_question_number": "6. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.34",
+        "question_text": "Write short notes on following : Asymptotic Notations",
+        "exam_year_month": "November 2023",
+        "original_question_number": "8. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.35",
+        "question_text": "Write short notes on following : DFS and BFS",
+        "exam_year_month": "November 2023",
+        "original_question_number": "8. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.36",
+        "question_text": "Explain Divide and Conquer techniques",
+        "exam_year_month": "June 2022",
+        "original_question_number": "1. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.37",
+        "question_text": "Sort the following array using heap-sort techniques.\n(5, 8, 3, 9, 2, 10, 1, 45, 32)",
+        "exam_year_month": "June 2022",
+        "original_question_number": "1. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.38",
+        "question_text": "Define Big \"Oh\" with example.",
+        "exam_year_month": "June 2022",
+        "original_question_number": "2. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.39",
+        "question_text": "Show preorder, inorder and postorder for the following tree.",
+        "exam_year_month": "June 2022",
+        "original_question_number": "5. a)",
+        "table": null,
+        "matrix": null,
+        "graph": {
+          "vertices": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H"
+          ],
+          "edges": [
+            {
+              "from": "A",
+              "to": "B"
+            },
+            {
+              "from": "A",
+              "to": "C"
+            },
+            {
+              "from": "B",
+              "to": "D"
+            },
+            {
+              "from": "B",
+              "to": "E"
+            },
+            {
+              "from": "E",
+              "to": "F"
+            },
+            {
+              "from": "C",
+              "to": "G"
+            },
+            {
+              "from": "G",
+              "to": "H"
+            }
+          ]
+        }
+      },
+      {
+        "serial_number": "Q.40",
+        "question_text": "Construct B tree of order 5 for the list of elements.\n2, 8, 5, 6, 13, 9, 14, 12, 19, 24, 18, 15, 5, 16, 20, 21",
+        "exam_year_month": "June 2022",
+        "original_question_number": "6. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.41",
+        "question_text": "Compare Bfs and Dfs.",
+        "exam_year_month": "June 2022",
+        "original_question_number": "6. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.42",
+        "question_text": "Write short notes on following : Parallel Algorithm",
+        "exam_year_month": "June 2022",
+        "original_question_number": "8. i)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.43",
+        "question_text": "Write short notes on following : Quick Sort",
+        "exam_year_month": "June 2022",
+        "original_question_number": "8. iii)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.44",
+        "question_text": "Explain Strassen’s algorithm for matrix multiplication with an example.",
+        "exam_year_month": "June 2020",
+        "original_question_number": "1. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.45",
+        "question_text": "Illustrate Heap Sort in the array A = [ 5, 8, 3, 9, 2, 10, 1, 40 ]",
+        "exam_year_month": "June 2020",
+        "original_question_number": "1. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.46",
+        "question_text": "Create a B-tree for the following list of elements.\n(86, 50, 40, 3, 94, 10, 70, 90, 110, 113, 116). Give minimization factor t = 3, min degree = 2, max degree = 5.",
+        "exam_year_month": "June 2020",
+        "original_question_number": "6. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.47",
+        "question_text": "Explain the difference between Big - Oh (o), Omega (ω) and theta (θ) notation.",
+        "exam_year_month": "June 2020",
+        "original_question_number": "7. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.48",
+        "question_text": "Explain 2-3 tree with the help of suitable example.",
+        "exam_year_month": "June 2020",
+        "original_question_number": "7. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.49",
+        "question_text": "Write short notes on following : Parallel Algorithm",
+        "exam_year_month": "June 2020",
+        "original_question_number": "8. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.50",
+        "question_text": "Write short notes on following : Merge Sort",
+        "exam_year_month": "June 2020",
+        "original_question_number": "8. d)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      }
+    ]
+  },
+  {
+    "unit": "UNIT-02",
+    "questions": [
+      {
+        "serial_number": "Q.51",
+        "question_text": "Obtain a set of optimal Huffman codes for message (M1, ... M7) with relative frequencies (q1, q2.......,q7) = (4, 5, 7, 8, 10, 12, 20). Draw the decode tree for this set of codes.",
+        "exam_year_month": "June 2025",
+        "original_question_number": "2. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.52",
+        "question_text": "Use algorithm shortest paths to obtain in non-decreasing order the lengths of the shortest paths from vertex 1 to all remaining vertices in the di-graph.",
+        "exam_year_month": "June 2025",
+        "original_question_number": "2. b)",
+        "table": null,
+        "matrix": null,
+        "graph": {
+          "vertices": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6"
+          ],
+          "edges": [
+            {
+              "from": "1",
+              "to": "2",
+              "weight": "2"
+            },
+            {
+              "from": "1",
+              "to": "3",
+              "weight": "15"
+            },
+            {
+              "from": "2",
+              "to": "4",
+              "weight": "30"
+            },
+            {
+              "from": "2",
+              "to": "5",
+              "weight": "10"
+            },
+            {
+              "from": "4",
+              "to": "3",
+              "weight": "4"
+            },
+            {
+              "from": "5",
+              "to": "4",
+              "weight": "4"
+            },
+            {
+              "from": "5",
+              "to": "6",
+              "weight": "10"
+            },
+            {
+              "from": "6",
+              "to": "3",
+              "weight": "10"
+            },
+            {
+              "from": "6",
+              "to": "5",
+              "weight": "15"
+            }
+          ]
+        }
+      },
+      {
+        "serial_number": "Q.53",
+        "question_text": "Suppose there are n jobs to be executed but only k processors that can work in parallel. The time required by jobs i to $$t_i$$, write an algorithm that determines which jobs are to be run on which processors and the order in which they should be run so that the finish time of the last job is minimized.",
+        "exam_year_month": "June 2025",
+        "original_question_number": "7. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.54",
+        "question_text": "Construct a Huffman coding for the given data? Write the applications of huffman coding.",
+        "exam_year_month": "December 2024",
+        "original_question_number": "2. b)",
+        "table": {
+          "headers": [
+            "Character",
+            "a",
+            "b",
+            "c",
+            "d",
+            "e",
+            "f"
+          ],
+          "data": [
+            [
+              "Frequency",
+              "3",
+              "8",
+              "15",
+              "22",
+              "33",
+              "46"
+            ]
+          ]
+        },
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.55",
+        "question_text": "Solve the following problem of job sequencing with deadlines using the Greedy method. n = 5 with profits (p1, p2, p3, p4, p5) = (5, 20, 10, 15, 1) and deadlines (d1, d2, d3, d4, d5) = (3, 2, 1, 2, 3).",
+        "exam_year_month": "December 2024",
+        "original_question_number": "3.",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.56",
+        "question_text": "Single source shortest path algorithm.",
+        "exam_year_month": "December 2024",
+        "original_question_number": "8. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.57",
+        "question_text": "Define spanning tree? Construct a minimal spanning tree for the given graph using Prim's algorithm.",
+        "exam_year_month": "June 2024",
+        "original_question_number": "2. b)",
+        "table": null,
+        "matrix": null,
+        "graph": {
+          "vertices": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6"
+          ],
+          "edges": [
+            {
+              "from": "1",
+              "to": "2",
+              "weight": "6"
+            },
+            {
+              "from": "1",
+              "to": "3",
+              "weight": "1"
+            },
+            {
+              "from": "1",
+              "to": "4",
+              "weight": "5"
+            },
+            {
+              "from": "2",
+              "to": "3",
+              "weight": "5"
+            },
+            {
+              "from": "2",
+              "to": "5",
+              "weight": "3"
+            },
+            {
+              "from": "3",
+              "to": "4",
+              "weight": "5"
+            },
+            {
+              "from": "3",
+              "to": "5",
+              "weight": "6"
+            },
+            {
+              "from": "3",
+              "to": "6",
+              "weight": "4"
+            },
+            {
+              "from": "4",
+              "to": "6",
+              "weight": "2"
+            },
+            {
+              "from": "5",
+              "to": "6",
+              "weight": "6"
+            }
+          ]
+        }
+      },
+      {
+        "serial_number": "Q.58",
+        "question_text": "Solve the following problem of job sequencing with deadlines using the Greedy method.\n$$n = 4, (p_1, p_2, p_3, p_4) = (100, 10, 15, 27)$$ and $$(d_1, d_2, d_3, d_4) = (2, 1, 2, 1)$$.",
+        "exam_year_month": "June 2024",
+        "original_question_number": "3.",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.59",
+        "question_text": "Apply the greedy method to solve the 0/1 Knapsack problem for $$n = 3, m = 20, (w_1, w_2, w_3) = (18, 15, 10)$$ and $$(p_1, p_2, p_3) = (25, 24, 15)$$.",
+        "exam_year_month": "June 2024",
+        "original_question_number": "4. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.60",
+        "question_text": "Single source shortest path algorithm",
+        "exam_year_month": "June 2024",
+        "original_question_number": "8. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.61",
+        "question_text": "How to solve the Knapsack problem with greedy method? Explain.",
+        "exam_year_month": "June 2023",
+        "original_question_number": "2. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.62",
+        "question_text": "Write an algorithm for single source shortest path and explain with an example.",
+        "exam_year_month": "June 2023",
+        "original_question_number": "3. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.63",
+        "question_text": "Discuss briefly about the minimum spanning tree.",
+        "exam_year_month": "June 2023",
+        "original_question_number": "3. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.64",
+        "question_text": "What is the solution generated by the function JS when $$n=7, (P_1, P_2, P_3............ P_7) = (3, 5, 20, 18, 1, 6, 30)$$ and $$(d_1, d_2............ d_7) = (1, 3, 4, 3, 2, 1, 2)$$.",
+        "exam_year_month": "November 2023",
+        "original_question_number": "2. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.65",
+        "question_text": "Show that if t is a spanning tree for the undirected graph G, then the addition of an edge q, $$q \\notin E(t)$$ and $$q \\in E(G)$$, to t creates a unique cycle.",
+        "exam_year_month": "November 2023",
+        "original_question_number": "2. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.66",
+        "question_text": "Construct a Huffman Code for the following data:\nDecode the text whose ending 100010111001010 using above Huffman Code.",
+        "exam_year_month": "June 2022",
+        "original_question_number": "2. b)",
+        "table": {
+          "headers": [
+            "Character",
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+          ],
+          "data": [
+            [
+              "Probability",
+              "0.4",
+              "0.1",
+              "0.2",
+              "0.15",
+              "0.15"
+            ]
+          ]
+        },
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.67",
+        "question_text": "Discuss Job Sequencing problem by an example.",
+        "exam_year_month": "June 2022",
+        "original_question_number": "3. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.68",
+        "question_text": "Explain Prim's algorithm with example.",
+        "exam_year_month": "June 2022",
+        "original_question_number": "7. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.69",
+        "question_text": "Solve the following instances of the single source shortest path problem with vertex 'a' as the source.",
+        "exam_year_month": "June 2022",
+        "original_question_number": "7. b)",
+        "table": null,
+        "matrix": null,
+        "graph": {
+          "vertices": [
+            "a",
+            "b",
+            "c",
+            "d",
+            "e"
+          ],
+          "edges": [
+            {
+              "from": "a",
+              "to": "b",
+              "weight": "3"
+            },
+            {
+              "from": "a",
+              "to": "d",
+              "weight": "7"
+            },
+            {
+              "from": "b",
+              "to": "c",
+              "weight": "4"
+            },
+            {
+              "from": "b",
+              "to": "d",
+              "weight": "2"
+            },
+            {
+              "from": "c",
+              "to": "d",
+              "weight": "5"
+            },
+            {
+              "from": "c",
+              "to": "e",
+              "weight": "6"
+            },
+            {
+              "from": "d",
+              "to": "e",
+              "weight": "4"
+            }
+          ]
+        }
+      },
+      {
+        "serial_number": "Q.70",
+        "question_text": "Explain job sequencing problem with example.",
+        "exam_year_month": "June 2020",
+        "original_question_number": "2. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.71",
+        "question_text": "Obtain a set of optimal Huffman codes for the seven messages (M1, ... , M7) with relative frequencies (q1, ... , q7) = (4, 5, 7, 8, 10, 22, 15). Draw the decode tree for this set of codes.",
+        "exam_year_month": "June 2020",
+        "original_question_number": "2. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.72",
+        "question_text": "Find the shortest path for vertex 1 to vertex 3 in the following graph using Dijkstra’s greedy algorithm.",
+        "exam_year_month": "June 2020",
+        "original_question_number": "3. b)",
+        "table": null,
+        "matrix": null,
+        "graph": {
+          "vertices": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6"
+          ],
+          "edges": [
+            {
+              "from": "1",
+              "to": "2",
+              "weight": "18"
+            },
+            {
+              "from": "1",
+              "to": "5",
+              "weight": "9"
+            },
+            {
+              "from": "1",
+              "to": "6",
+              "weight": "21"
+            },
+            {
+              "from": "2",
+              "to": "3",
+              "weight": "5"
+            },
+            {
+              "from": "2",
+              "to": "4",
+              "weight": "6"
+            },
+            {
+              "from": "2",
+              "to": "6",
+              "weight": "11"
+            },
+            {
+              "from": "3",
+              "to": "4",
+              "weight": "10"
+            },
+            {
+              "from": "4",
+              "to": "5",
+              "weight": "18"
+            },
+            {
+              "from": "4",
+              "to": "6",
+              "weight": "14"
+            },
+            {
+              "from": "5",
+              "to": "6",
+              "weight": "33"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "unit": "UNIT-03",
+    "questions": [
+      {
+        "serial_number": "Q.73",
+        "question_text": "Give an example of a set of knapsack instances for which $$|S^i| = 2^i, 0 \\le i \\le n$$. The set should include one instance for each $$n$$.",
+        "exam_year_month": "June 2025",
+        "original_question_number": "3. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.74",
+        "question_text": "Explain Floyd Warshall algorithm with suitable example.",
+        "exam_year_month": "June 2025",
+        "original_question_number": "3. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.75",
+        "question_text": "Find optimal solution for 0/1 knapsack problem (W1, W2, W3, W4) = (10, 15, 6, 9), (P1, P2, P3, P4) = (2, 5, 8, 1) and M = 30.",
+        "exam_year_month": "June 2025",
+        "original_question_number": "7. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.76",
+        "question_text": "Reliability Design",
+        "exam_year_month": "June 2025",
+        "original_question_number": "8. c)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.77",
+        "question_text": "Solve the following 0/1 Knapsack problem using dynamic programming where n = 4, m = 40, (w1, w2, w3, w4) = (2, 11, 22, 15) and (p1, p2, p3, p4) = (11, 21, 31, 33).",
+        "exam_year_month": "December 2024",
+        "original_question_number": "4. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.78",
+        "question_text": "Construct a multistage graph for the given graph using the Greedy method.",
+        "exam_year_month": "December 2024",
+        "original_question_number": "4. b)",
+        "table": null,
+        "matrix": null,
+        "graph": {
+          "vertices": [
+            "S",
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "T"
+          ],
+          "edges": [
+            {
+              "from": "S",
+              "to": "A",
+              "weight": "1"
+            },
+            {
+              "from": "S",
+              "to": "B",
+              "weight": "2"
+            },
+            {
+              "from": "S",
+              "to": "C",
+              "weight": "7"
+            },
+            {
+              "from": "A",
+              "to": "D",
+              "weight": "3"
+            },
+            {
+              "from": "A",
+              "to": "E",
+              "weight": "6"
+            },
+            {
+              "from": "B",
+              "to": "D",
+              "weight": "4"
+            },
+            {
+              "from": "B",
+              "to": "E",
+              "weight": "10"
+            },
+            {
+              "from": "C",
+              "to": "E",
+              "weight": "3"
+            },
+            {
+              "from": "C",
+              "to": "T",
+              "weight": "10"
+            },
+            {
+              "from": "D",
+              "to": "T",
+              "weight": "8"
+            },
+            {
+              "from": "E",
+              "to": "T",
+              "weight": "2"
+            }
+          ]
+        }
+      },
+      {
+        "serial_number": "Q.79",
+        "question_text": "Explain the Floyd Warshall algorithm for the given graph.",
+        "exam_year_month": "December 2024",
+        "original_question_number": "5. a)",
+        "table": null,
+        "matrix": null,
+        "graph": {
+          "vertices": [
+            "1",
+            "2",
+            "3",
+            "4"
+          ],
+          "edges": [
+            {
+              "from": "1",
+              "to": "2",
+              "weight": "4"
+            },
+            {
+              "from": "1",
+              "to": "3",
+              "weight": "-2"
+            },
+            {
+              "from": "2",
+              "to": "3",
+              "weight": "3"
+            },
+            {
+              "from": "3",
+              "to": "4",
+              "weight": "2"
+            },
+            {
+              "from": "4",
+              "to": "2",
+              "weight": "-1"
+            }
+          ]
+        }
+      },
+      {
+        "serial_number": "Q.80",
+        "question_text": "Use the function OBST to compute w(i, j), r(i, j) and c(i, j), $$0 \\le i < j \\le 4$$ for the identifier set $$(a_1, a_2, a_3, a_4) =$$ (double, int, for, if) with $$p(1:4) = (3, 3, 1, 1)$$ and $$q(0:4) = (2, 3, 1, 1, 1)$$. Using r(i, j)'s construct the optimal binary search tree.",
+        "exam_year_month": "December 2024",
+        "original_question_number": "7. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.81",
+        "question_text": "Construct a multistage graph for the given graph using the greedy method.",
+        "exam_year_month": "June 2024",
+        "original_question_number": "4. b)",
+        "table": null,
+        "matrix": null,
+        "graph": {
+          "vertices": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9",
+            "10",
+            "11",
+            "12"
+          ],
+          "edges": [
+            {
+              "from": "1",
+              "to": "2",
+              "weight": "9"
+            },
+            {
+              "from": "1",
+              "to": "3",
+              "weight": "7"
+            },
+            {
+              "from": "1",
+              "to": "4",
+              "weight": "3"
+            },
+            {
+              "from": "1",
+              "to": "5",
+              "weight": "2"
+            },
+            {
+              "from": "2",
+              "to": "6",
+              "weight": "4"
+            },
+            {
+              "from": "2",
+              "to": "7",
+              "weight": "2"
+            },
+            {
+              "from": "2",
+              "to": "8",
+              "weight": "1"
+            },
+            {
+              "from": "3",
+              "to": "6",
+              "weight": "2"
+            },
+            {
+              "from": "3",
+              "to": "7",
+              "weight": "7"
+            },
+            {
+              "from": "4",
+              "to": "8",
+              "weight": "11"
+            },
+            {
+              "from": "5",
+              "to": "7",
+              "weight": "11"
+            },
+            {
+              "from": "5",
+              "to": "8",
+              "weight": "8"
+            },
+            {
+              "from": "6",
+              "to": "9",
+              "weight": "6"
+            },
+            {
+              "from": "6",
+              "to": "10",
+              "weight": "5"
+            },
+            {
+              "from": "7",
+              "to": "9",
+              "weight": "4"
+            },
+            {
+              "from": "7",
+              "to": "10",
+              "weight": "3"
+            },
+            {
+              "from": "8",
+              "to": "10",
+              "weight": "5"
+            },
+            {
+              "from": "8",
+              "to": "11",
+              "weight": "6"
+            },
+            {
+              "from": "9",
+              "to": "12",
+              "weight": "4"
+            },
+            {
+              "from": "10",
+              "to": "12",
+              "weight": "2"
+            },
+            {
+              "from": "11",
+              "to": "12",
+              "weight": "5"
+            }
+          ]
+        }
+      },
+      {
+        "serial_number": "Q.82",
+        "question_text": "Explain the Floyd Warshall algorithm for the given graph.",
+        "exam_year_month": "June 2024",
+        "original_question_number": "5. a)",
+        "table": null,
+        "matrix": null,
+        "graph": {
+          "vertices": [
+            "1",
+            "2",
+            "3",
+            "4"
+          ],
+          "edges": [
+            {
+              "from": "1",
+              "to": "2",
+              "weight": "4"
+            },
+            {
+              "from": "1",
+              "to": "3",
+              "weight": "-2"
+            },
+            {
+              "from": "2",
+              "to": "3",
+              "weight": "3"
+            },
+            {
+              "from": "3",
+              "to": "4",
+              "weight": "2"
+            },
+            {
+              "from": "4",
+              "to": "2",
+              "weight": "-1"
+            }
+          ]
+        }
+      },
+      {
+        "serial_number": "Q.83",
+        "question_text": "Use the function OBST to compute $$w(i, j)$$, $$r(i, j)$$ and $$c(i, j)$$, $$0 \\le i < j \\le 4$$ for the identifier set $$(a_1, a_2, a_3, a_4) =$$ (char, float, while, else) with $$p(1) = \\frac{1}{20}$$, $$p(2) = \\frac{1}{5}$$, $$p(3) = \\frac{1}{10}$$, $$p(4) = \\frac{1}{20}$$, $$q(0) = \\frac{1}{5}$$, $$q(1) = \\frac{1}{10}$$, $$q(2) = \\frac{1}{5}$$, $$q(3) = \\frac{1}{10}$$, $$q(4) = \\frac{1}{20}$$. Using $$r(i, j)$$'s construct the optimal binary search tree.",
+        "exam_year_month": "June 2024",
+        "original_question_number": "7. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.84",
+        "question_text": "What do you mean by forward and backward approach of problem solving in Dynamic Programming?",
+        "exam_year_month": "June 2023",
+        "original_question_number": "4. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.85",
+        "question_text": "How the reliability of a system is determined using dynamic programming? Discuss.",
+        "exam_year_month": "June 2023",
+        "original_question_number": "4. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.86",
+        "question_text": "Find an optimal solution for following 0/1 Knapsack problem using dynamic programming:\nNumber of objects n = 4, Knapsack Capacity M = 5, Weights (W1, W2, W3, W4) = (2, 3, 4, 5) and Profits (P1, P2, P3, P4) = (3, 4, 5, 6).",
+        "exam_year_month": "June 2023",
+        "original_question_number": "5. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.87",
+        "question_text": "Dynamic Programming",
+        "exam_year_month": "June 2023",
+        "original_question_number": "8. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.88",
+        "question_text": "Find optimal solution for 0/1 knapsack problem (W1, W2, W3, W4) = (10, 15, 6, 9), (P1, P2, P3, P4) = (2, 5, 8, 1) and M = 30.",
+        "exam_year_month": "November 2023",
+        "original_question_number": "3. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.89",
+        "question_text": "How reliability design can be obtained using dynamic programming?",
+        "exam_year_month": "November 2023",
+        "original_question_number": "3. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.90",
+        "question_text": "Give an example of a set of knapsack instances for which $$|S^i| = 2^i, 0 \\le i \\le n$$. The set should include one instance for each n.",
+        "exam_year_month": "November 2023",
+        "original_question_number": "7. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.91",
+        "question_text": "Define how Knapsack Problem is Solved by dynamic programming.\nConsider $$n = 3, (w_1, w_2, w_3) = (2, 3, 3), (P_1, P_2, P_3) = (1, 2, 4)$$ and $$m = 6$$. Find optimal solution.",
+        "exam_year_month": "June 2022",
+        "original_question_number": "3. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.92",
+        "question_text": "Consider the Knapsack instance n = 3, (w1, w2, w3) = (2, 3, 4) and (p1, p2, p3) = (1, 2, 5) and m = 5. Find the optimal solution.",
+        "exam_year_month": "June 2020",
+        "original_question_number": "3. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.93",
+        "question_text": "What is multistage graph problem? Discuss its solution based on dynamic programming approach. Also give a suitable algorithm and find its computing time?",
+        "exam_year_month": "June 2020",
+        "original_question_number": "4. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.94",
+        "question_text": "Explain Dynamic Programming concept with example.",
+        "exam_year_month": "June 2020",
+        "original_question_number": "5. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.95",
+        "question_text": "What is principle of optimality. Give suitable example.",
+        "exam_year_month": "June 2020",
+        "original_question_number": "5. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.96",
+        "question_text": "Reliability Design",
+        "exam_year_month": "June 2020",
+        "original_question_number": "8. c)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      }
+    ]
+  },
+  {
+    "unit": "UNIT-04",
+    "questions": [
+      {
+        "serial_number": "Q.97",
+        "question_text": "Given an $$n \\times n$$ chessboard, a knight is placed on an arbitrary square with coordinates $$(x, y)$$. The problem is to determine $$n^2-1$$ Knight moves such that every square of the board is visited once if such a sequence of moves exists. Present an algorithm to solve this problem.",
+        "exam_year_month": "June 2025",
+        "original_question_number": "4. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.98",
+        "question_text": "Write an algorithm for the 8-queens problem using backtracking.",
+        "exam_year_month": "December 2024",
+        "original_question_number": "6. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.99",
+        "question_text": "Draw the state space tree for 'm' coloring when n = 3 and m = 3.",
+        "exam_year_month": "December 2024",
+        "original_question_number": "6. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.100",
+        "question_text": "Hamiltonian graph and cycle.",
+        "exam_year_month": "December 2024",
+        "original_question_number": "8. c)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.101",
+        "question_text": "Give the solution to the 8-queens problem using backtracking.",
+        "exam_year_month": "June 2024",
+        "original_question_number": "6. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.102",
+        "question_text": "What is graph coloring? Explain graph coloring for the given graph.",
+        "exam_year_month": "June 2024",
+        "original_question_number": "6. b)",
+        "table": null,
+        "matrix": null,
+        "graph": {
+          "vertices": [
+            "a",
+            "b",
+            "c",
+            "d",
+            "e",
+            "f"
+          ],
+          "edges": [
+            {
+              "from": "a",
+              "to": "b"
+            },
+            {
+              "from": "a",
+              "to": "c"
+            },
+            {
+              "from": "a",
+              "to": "e"
+            },
+            {
+              "from": "b",
+              "to": "c"
+            },
+            {
+              "from": "b",
+              "to": "f"
+            },
+            {
+              "from": "c",
+              "to": "d"
+            },
+            {
+              "from": "c",
+              "to": "f"
+            },
+            {
+              "from": "d",
+              "to": "e"
+            },
+            {
+              "from": "d",
+              "to": "f"
+            },
+            {
+              "from": "e",
+              "to": "f"
+            }
+          ]
+        }
+      },
+      {
+        "serial_number": "Q.103",
+        "question_text": "Explain the 8 queen's problem and apply the backtracking to solve the 8 queen's problem.",
+        "exam_year_month": "June 2023",
+        "original_question_number": "5. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.104",
+        "question_text": "Generalize Hamiltonian so that it processes a graph whose edges have costs associated with them and finds a Hamiltonian cycle with minimum cost. Assume that all edge costs are positive.",
+        "exam_year_month": "November 2023",
+        "original_question_number": "4. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.105",
+        "question_text": "Graph Coloring Problem",
+        "exam_year_month": "November 2023",
+        "original_question_number": "8. c)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.106",
+        "question_text": "Explain eight queen's problem and apply back tracking to solve this problem.",
+        "exam_year_month": "June 2022",
+        "original_question_number": "4. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.107",
+        "question_text": "Graph Coloring",
+        "exam_year_month": "June 2022",
+        "original_question_number": "8. ii)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.108",
+        "question_text": "Explain Hamiltonian cycle and write an algorithm to find all Hamiltonian cycle in graph.",
+        "exam_year_month": "June 2020",
+        "original_question_number": "4. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      }
+    ]
+  },
+  {
+    "unit": "UNIT-05",
+    "questions": [
+      {
+        "serial_number": "Q.109",
+        "question_text": "Consider the traveling salesperson instance defined by the cost matrix.",
+        "exam_year_month": "June 2025",
+        "original_question_number": "4. b)",
+        "table": null,
+        "matrix": [
+          [
+            "∞",
+            "7",
+            "3",
+            "12",
+            "8"
+          ],
+          [
+            "3",
+            "∞",
+            "6",
+            "14",
+            "9"
+          ],
+          [
+            "5",
+            "8",
+            "∞",
+            "6",
+            "18"
+          ],
+          [
+            "9",
+            "3",
+            "5",
+            "∞",
+            "11"
+          ],
+          [
+            "18",
+            "14",
+            "9",
+            "8",
+            "∞"
+          ]
+        ],
+        "graph": null
+      },
+      {
+        "serial_number": "Q.110",
+        "question_text": "Obtain a nondeterministic algorithm of complexity O(n) to determine whether there is a subset of n numbers $$a_i, 1 \\le i \\le n$$, that sums of m.",
+        "exam_year_month": "June 2025",
+        "original_question_number": "5. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.111",
+        "question_text": "Explain in detail about the FIFO branch and bound.",
+        "exam_year_month": "December 2024",
+        "original_question_number": "5. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.112",
+        "question_text": "Using branch and bound technique explain the 0/1 knapsack problem.",
+        "exam_year_month": "June 2024",
+        "original_question_number": "5. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.113",
+        "question_text": "NP Completeness",
+        "exam_year_month": "June 2024",
+        "original_question_number": "8. d)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.114",
+        "question_text": "Write the control abstraction for LC-Search. Explain how Traveling Salesperson problem is solved using LCBB.",
+        "exam_year_month": "June 2023",
+        "original_question_number": "6.",
+        "table": null,
+        "matrix": [
+          [
+            "0",
+            "20",
+            "30",
+            "10",
+            "11"
+          ],
+          [
+            "15",
+            "2",
+            "16",
+            "4",
+            "2"
+          ],
+          [
+            "3",
+            "5",
+            "0",
+            "2",
+            "4"
+          ],
+          [
+            "10",
+            "6",
+            "18",
+            "0",
+            "3"
+          ],
+          [
+            "16",
+            "4",
+            "7",
+            "16",
+            "0"
+          ]
+        ],
+        "graph": null
+      },
+      {
+        "serial_number": "Q.115",
+        "question_text": "How can comparison trees be used for deriving lower bounds on problem of sorting.",
+        "exam_year_month": "November 2023",
+        "original_question_number": "4. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.116",
+        "question_text": "Draw the portion of state space tree generated by LCBB for following knapsack instance: n = 4, (P1, P2, P3, P4) = (10, 10, 12, 18) and (W1, W2, W3, W4) = (2, 4, 6, 9) and M = 15",
+        "exam_year_month": "November 2023",
+        "original_question_number": "7. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.117",
+        "question_text": "Solve the TSP using branch and bound technique.",
+        "exam_year_month": "June 2022",
+        "original_question_number": "4. b)",
+        "table": null,
+        "matrix": [
+          [
+            "∞",
+            "3",
+            "4"
+          ],
+          [
+            "6",
+            "∞",
+            "4"
+          ],
+          [
+            "3",
+            "5",
+            "∞"
+          ]
+        ],
+        "graph": null
+      },
+      {
+        "serial_number": "Q.118",
+        "question_text": "Discuss in detail NP complete problems with example.",
+        "exam_year_month": "June 2022",
+        "original_question_number": "5. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.119",
+        "question_text": "What is branch and bound techniques?",
+        "exam_year_month": "June 2020",
+        "original_question_number": "6. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.120",
+        "question_text": "NP completeness",
+        "exam_year_month": "June 2020",
+        "original_question_number": "8. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      }
+    ]
+  }
+]
