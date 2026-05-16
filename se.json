@@ -1,0 +1,1296 @@
+[
+  {
+    "unit": "UNIT-01",
+    "questions": [
+      {
+        "serial_number": "Q.1",
+        "question_text": "Differentiate between software product characteristics and software process characteristics.",
+        "exam_year_month": "June 2025",
+        "original_question_number": "1(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.2",
+        "question_text": "Explain the Linear Sequential Model and discuss its advantages and disadvantages.",
+        "exam_year_month": "June 2025",
+        "original_question_number": "1(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.3",
+        "question_text": "What is the Component Assembly Model? How does it differ from the Incremental Model?",
+        "exam_year_month": "June 2025",
+        "original_question_number": "2(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.4",
+        "question_text": "Explain the purpose of process customization and improvement with reference to CMM.",
+        "exam_year_month": "June 2025",
+        "original_question_number": "2(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.5",
+        "question_text": "Explain with neat diagram about RAD model.",
+        "exam_year_month": "December 2024",
+        "original_question_number": "1(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.6",
+        "question_text": "Describe briefly about Prototyping model for Software development?",
+        "exam_year_month": "December 2024",
+        "original_question_number": "1(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.7",
+        "question_text": "Draw and explain the Incremental Model with its Merits and Demerits?",
+        "exam_year_month": "December 2024",
+        "original_question_number": "2(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.8",
+        "question_text": "Component Assembly Model",
+        "exam_year_month": "December 2024",
+        "original_question_number": "8(ii)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.9",
+        "question_text": "Elucidate the key features of the software process models with suitable examples?",
+        "exam_year_month": "June 2024",
+        "original_question_number": "1(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.10",
+        "question_text": "Write about CMM (Capability Maturity Model) and how it is used for Software Quality?",
+        "exam_year_month": "June 2024",
+        "original_question_number": "1(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.11",
+        "question_text": "Draw and explain the spiral model with its advantages and disadvantages?",
+        "exam_year_month": "June 2024",
+        "original_question_number": "2(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.12",
+        "question_text": "RUP",
+        "exam_year_month": "June 2024",
+        "original_question_number": "8(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.13",
+        "question_text": "Discuss in detail about Evolutionary process model in software Engineering.",
+        "exam_year_month": "June 2023",
+        "original_question_number": "1(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.14",
+        "question_text": "What is RAD Model and why it is important. Give the applications of RAD model.",
+        "exam_year_month": "June 2023",
+        "original_question_number": "1(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.15",
+        "question_text": "What is the difference between product and process metric?",
+        "exam_year_month": "June 2023",
+        "original_question_number": "7(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.16",
+        "question_text": "What is component model in software engineering? Explain with neat diagram.",
+        "exam_year_month": "June 2023",
+        "original_question_number": "7(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.17",
+        "question_text": "What is spiral model? Explain with neat diagram.",
+        "exam_year_month": "November 2023",
+        "original_question_number": "1(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.18",
+        "question_text": "What is SDLC? Illustrate the phases of SDLC in software engineering.",
+        "exam_year_month": "November 2023",
+        "original_question_number": "1(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.19",
+        "question_text": "Describe RUP and agile processes in detail.",
+        "exam_year_month": "November 2023",
+        "original_question_number": "7(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.20",
+        "question_text": "Explain Waterfall model with diagram along with advantages and disadvantages.",
+        "exam_year_month": "June 2020",
+        "original_question_number": "1(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.21",
+        "question_text": "Discuss component assembly model and compare it to spiral model.",
+        "exam_year_month": "June 2020",
+        "original_question_number": "1(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.22",
+        "question_text": "What are software development problems? Describe.",
+        "exam_year_month": "June 2020",
+        "original_question_number": "2(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.23",
+        "question_text": "What is CMM? Discuss its various levels?",
+        "exam_year_month": "December 2020",
+        "original_question_number": "3(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.24",
+        "question_text": "Explain iterative and spiral model of software development.",
+        "exam_year_month": "December 2020",
+        "original_question_number": "5(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.25",
+        "question_text": "Explain various phases of RAD model. Discuss situation where RAD model is useful.",
+        "exam_year_month": "December 2020",
+        "original_question_number": "7(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.26",
+        "question_text": "With a neat diagram explain about the component assembly model and rational unified process.",
+        "exam_year_month": "November 2022",
+        "original_question_number": "1(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.27",
+        "question_text": "Write about the characteristics of software engineering.",
+        "exam_year_month": "November 2022",
+        "original_question_number": "1(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.28",
+        "question_text": "Explain about the CMM levels.",
+        "exam_year_month": "November 2022",
+        "original_question_number": "2(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.29",
+        "question_text": "What is a model? Why it is needed in the development of software.",
+        "exam_year_month": "November 2022",
+        "original_question_number": "3(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      }
+    ]
+  },
+  {
+    "unit": "UNIT-02",
+    "questions": [
+      {
+        "serial_number": "Q.30",
+        "question_text": "Describe functional and non-functional requirements with examples.",
+        "exam_year_month": "June 2025",
+        "original_question_number": "3(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.31",
+        "question_text": "What are the major requirement elicitation techniques? Discuss any two in detail.",
+        "exam_year_month": "June 2025",
+        "original_question_number": "3(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.32",
+        "question_text": "Explain use case modeling with the help of an example.",
+        "exam_year_month": "June 2025",
+        "original_question_number": "4(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.33",
+        "question_text": "What are the key contents of a Software Requirement Specification (SRS) document?",
+        "exam_year_month": "June 2025",
+        "original_question_number": "4(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.34",
+        "question_text": "Discuss briefly about Use case Model with neat sketch?",
+        "exam_year_month": "December 2024",
+        "original_question_number": "2(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.35",
+        "question_text": "Differentiate between Function-Oriented and Object-Oriented Software development?",
+        "exam_year_month": "December 2024",
+        "original_question_number": "3(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.36",
+        "question_text": "Describe different checks to be carried out during requirement validation process?",
+        "exam_year_month": "December 2024",
+        "original_question_number": "3(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.37",
+        "question_text": "Discuss the components of a software requirement specification document?",
+        "exam_year_month": "June 2024",
+        "original_question_number": "2(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.38",
+        "question_text": "Differentiate between functional and Non Functional requirements with suitable examples?",
+        "exam_year_month": "June 2024",
+        "original_question_number": "3(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.39",
+        "question_text": "What are the activities of requirement elicitation and Analysis? Explain.",
+        "exam_year_month": "June 2024",
+        "original_question_number": "3(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.40",
+        "question_text": "Traceability",
+        "exam_year_month": "June 2024",
+        "original_question_number": "8(c)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.41",
+        "question_text": "\"The functional requirements specification of a system should be both complete and consistent\". Substantiate this statement with relevant examples.",
+        "exam_year_month": "June 2023",
+        "original_question_number": "2(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.42",
+        "question_text": "What is the use-case model and how to make it? Discuss the four basic parts of a use-case model.",
+        "exam_year_month": "June 2023",
+        "original_question_number": "2(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.43",
+        "question_text": "Object Models",
+        "exam_year_month": "June 2023",
+        "original_question_number": "8(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.44",
+        "question_text": "What is the difference between function oriented modeling and object oriented modeling?",
+        "exam_year_month": "November 2023",
+        "original_question_number": "2(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.45",
+        "question_text": "Discuss about system and software requirement specifications.",
+        "exam_year_month": "November 2023",
+        "original_question_number": "2(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.46",
+        "question_text": "What is the use of requirement engineering? What are the problems in formulation of Requirements?",
+        "exam_year_month": "June 2020",
+        "original_question_number": "3(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.47",
+        "question_text": "Compare two approaches that are used in analysis and modeling.",
+        "exam_year_month": "June 2020",
+        "original_question_number": "3(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.48",
+        "question_text": "Explain the concept of functional modeling with an illustrative example.",
+        "exam_year_month": "June 2020",
+        "original_question_number": "4(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.49",
+        "question_text": "Draw a use case diagram for booking a ticket in a reservation system.",
+        "exam_year_month": "June 2020",
+        "original_question_number": "5(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.50",
+        "question_text": "What is difference between function oriented and object oriented Modeling? Explain in detail.",
+        "exam_year_month": "December 2020",
+        "original_question_number": "1(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.51",
+        "question_text": "Use case modeling",
+        "exam_year_month": "December 2020",
+        "original_question_number": "4(c)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.52",
+        "question_text": "Object oriented analysis",
+        "exam_year_month": "December 2020",
+        "original_question_number": "8(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.53",
+        "question_text": "Draw a use case diagram for booking a ticket in a reservation system.",
+        "exam_year_month": "November 2022",
+        "original_question_number": "2(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.54",
+        "question_text": "What is meant by software requirement elicitation. How the requirements can be specified.",
+        "exam_year_month": "November 2022",
+        "original_question_number": "3(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.55",
+        "question_text": "Traceability",
+        "exam_year_month": "November 2022",
+        "original_question_number": "8(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      }
+    ]
+  },
+  {
+    "unit": "UNIT-03",
+    "questions": [
+      {
+        "serial_number": "Q.56",
+        "question_text": "Describe any four fundamental software design principles.",
+        "exam_year_month": "June 2025",
+        "original_question_number": "5(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.57",
+        "question_text": "Explain the SA/SD approach to function-oriented design.",
+        "exam_year_month": "June 2025",
+        "original_question_number": "5(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.58",
+        "question_text": "What are architectural views? Briefly describe different architectural styles.",
+        "exam_year_month": "June 2025",
+        "original_question_number": "6(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.59",
+        "question_text": "What are the key design metrics used to evaluate software design quality?",
+        "exam_year_month": "June 2025",
+        "original_question_number": "6(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.60",
+        "question_text": "How system modeling is achieved using UML? Explain with a suitable example.",
+        "exam_year_month": "December 2024",
+        "original_question_number": "4(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.61",
+        "question_text": "What do you understand by Function-Oriented design? Discuss in detail.",
+        "exam_year_month": "December 2024",
+        "original_question_number": "4(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.62",
+        "question_text": "List and Explain different kinds of architecture styles and patterns?",
+        "exam_year_month": "December 2024",
+        "original_question_number": "5(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.63",
+        "question_text": "SA/SD Component Based Design",
+        "exam_year_month": "December 2024",
+        "original_question_number": "8(iii)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.64",
+        "question_text": "Discuss about pattern based software design in detail?",
+        "exam_year_month": "June 2024",
+        "original_question_number": "4(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.65",
+        "question_text": "Briefly explain about Function-Oriented design?",
+        "exam_year_month": "June 2024",
+        "original_question_number": "4(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.66",
+        "question_text": "List and explain the golden rules of User-Interface design?",
+        "exam_year_month": "June 2024",
+        "original_question_number": "5(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.67",
+        "question_text": "Design Principles",
+        "exam_year_month": "June 2024",
+        "original_question_number": "8(d)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.68",
+        "question_text": "Discuss about the basic principles of software design in software engineering.",
+        "exam_year_month": "June 2023",
+        "original_question_number": "3(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.69",
+        "question_text": "What are SA and SD? Discuss about component based design and what are its advantages.",
+        "exam_year_month": "June 2023",
+        "original_question_number": "3(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.70",
+        "question_text": "What is a design metrics? Explain the importance of design metrics.",
+        "exam_year_month": "November 2023",
+        "original_question_number": "3(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.71",
+        "question_text": "Discuss about the function oriented design strategies in detail.",
+        "exam_year_month": "November 2023",
+        "original_question_number": "3(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.72",
+        "question_text": "Describe clearly how a good design in influenced by the: Cohesion and Coupling.",
+        "exam_year_month": "June 2020",
+        "original_question_number": "4(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.73",
+        "question_text": "What are Modular system? Explain different types of model cohesion and coupling.",
+        "exam_year_month": "December 2020",
+        "original_question_number": "2(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.74",
+        "question_text": "Explain the types of software design strategies available.",
+        "exam_year_month": "December 2020",
+        "original_question_number": "3(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.75",
+        "question_text": "Modularization",
+        "exam_year_month": "December 2020",
+        "original_question_number": "4(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.76",
+        "question_text": "Coupling cohesion",
+        "exam_year_month": "December 2020",
+        "original_question_number": "4(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.77",
+        "question_text": "Explain in detail about the design concepts and principles.",
+        "exam_year_month": "November 2022",
+        "original_question_number": "4(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.78",
+        "question_text": "How architecture is used in the development of software. What are the different styles used for it? Explain any two of them.",
+        "exam_year_month": "November 2022",
+        "original_question_number": "4(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.79",
+        "question_text": "How do you describe the architecture of the software intensive system based on the use of multiple, concurrent views.",
+        "exam_year_month": "November 2022",
+        "original_question_number": "5(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      }
+    ]
+  },
+  {
+    "unit": "UNIT-04",
+    "questions": [
+      {
+        "serial_number": "Q.80",
+        "question_text": "Differentiate between static and dynamic code analysis.",
+        "exam_year_month": "June 2025",
+        "original_question_number": "7(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.81",
+        "question_text": "Describe the black-box testing technique with an example.",
+        "exam_year_month": "June 2025",
+        "original_question_number": "7(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.82",
+        "question_text": "What is Test Oracles? Explain different types of test techniques.",
+        "exam_year_month": "December 2024",
+        "original_question_number": "5(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.83",
+        "question_text": "With neat sketch explain briefly about testing levels?",
+        "exam_year_month": "December 2024",
+        "original_question_number": "6(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.84",
+        "question_text": "Testing frameworks",
+        "exam_year_month": "December 2024",
+        "original_question_number": "8(iv)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.85",
+        "question_text": "Briefly discuss about Integration testing Strategies?",
+        "exam_year_month": "June 2024",
+        "original_question_number": "5(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.86",
+        "question_text": "What is Black- Box testing? What is boundary value Analysis? Explain the technique Specifying rules and its usage with the help of an example.",
+        "exam_year_month": "June 2024",
+        "original_question_number": "6(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.87",
+        "question_text": "What is White-Box testing? How white box testing is carried out ? Demonstrate With example.",
+        "exam_year_month": "June 2024",
+        "original_question_number": "6(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.88",
+        "question_text": "What are the strategic approaches to software testing? Explain in detail.",
+        "exam_year_month": "June 2023",
+        "original_question_number": "4(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.89",
+        "question_text": "What is unit testing in software Engineering? Explain with suitable example.",
+        "exam_year_month": "June 2023",
+        "original_question_number": "4(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.90",
+        "question_text": "What is system testing. Discuss about different types of system testing.",
+        "exam_year_month": "June 2023",
+        "original_question_number": "6(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.91",
+        "question_text": "What are test metrics and its types? What is the purpose of testing metrics? Explain.",
+        "exam_year_month": "June 2023",
+        "original_question_number": "6(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.92",
+        "question_text": "Black-Box Testing",
+        "exam_year_month": "June 2023",
+        "original_question_number": "8(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.93",
+        "question_text": "Testing Tools",
+        "exam_year_month": "June 2023",
+        "original_question_number": "8(d)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.94",
+        "question_text": "What is software testing and system testing? Explain in detail.",
+        "exam_year_month": "November 2023",
+        "original_question_number": "4(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.95",
+        "question_text": "Discuss about integration testing with suitable example.",
+        "exam_year_month": "November 2023",
+        "original_question_number": "4(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.96",
+        "question_text": "What are the steps of acceptance testing? Explain in detail.",
+        "exam_year_month": "November 2023",
+        "original_question_number": "6(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.97",
+        "question_text": "Structured methods",
+        "exam_year_month": "November 2023",
+        "original_question_number": "8(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.98",
+        "question_text": "White-Box Testing",
+        "exam_year_month": "November 2023",
+        "original_question_number": "8(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.99",
+        "question_text": "Test Case Design",
+        "exam_year_month": "November 2023",
+        "original_question_number": "8(d)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.100",
+        "question_text": "Differentiate between top down and bottom up integration testing.",
+        "exam_year_month": "June 2020",
+        "original_question_number": "5(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.101",
+        "question_text": "What is white box testing and what is the difficulty while exercising it?",
+        "exam_year_month": "June 2020",
+        "original_question_number": "6(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.102",
+        "question_text": "Discuss software testing strategies. Differentiate between Verification and Validation.",
+        "exam_year_month": "June 2020",
+        "original_question_number": "6(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.103",
+        "question_text": "Test Metrics",
+        "exam_year_month": "June 2020",
+        "original_question_number": "8(d)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.104",
+        "question_text": "Differentiate between the following: i) Verification and validation ii) Unit testing and system testing",
+        "exam_year_month": "December 2020",
+        "original_question_number": "2(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.105",
+        "question_text": "Discuss the various black box and white box testing techniques with suitable example?",
+        "exam_year_month": "December 2020",
+        "original_question_number": "5(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.106",
+        "question_text": "Explain different specialized testing techniques.",
+        "exam_year_month": "November 2022",
+        "original_question_number": "5(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.107",
+        "question_text": "What is the need of integration testing? Explain it with a neat figure.",
+        "exam_year_month": "November 2022",
+        "original_question_number": "6(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.108",
+        "question_text": "What is software testing? What are the levels present in it? How unit testing is used for software.",
+        "exam_year_month": "November 2022",
+        "original_question_number": "6(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.109",
+        "question_text": "Static Analysis",
+        "exam_year_month": "November 2022",
+        "original_question_number": "8(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      }
+    ]
+  },
+  {
+    "unit": "UNIT-05",
+    "questions": [
+      {
+        "serial_number": "Q.110",
+        "question_text": "What is Software Configuration Management (SCM)? Describe its major activities.",
+        "exam_year_month": "June 2025",
+        "original_question_number": "8(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.111",
+        "question_text": "Explain software project feasibility analysis and its types.",
+        "exam_year_month": "June 2025",
+        "original_question_number": "8(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.112",
+        "question_text": "Explain briefly about Software Configuration Management (SCM)?",
+        "exam_year_month": "December 2024",
+        "original_question_number": "6(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.113",
+        "question_text": "Discuss about Risk Assessment and Mitigation.",
+        "exam_year_month": "December 2024",
+        "original_question_number": "7(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.114",
+        "question_text": "What is Re-Engineering and discuss about steps involved in Re-Engineering?",
+        "exam_year_month": "December 2024",
+        "original_question_number": "7(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.115",
+        "question_text": "Resource Allocation",
+        "exam_year_month": "December 2024",
+        "original_question_number": "8(i)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.116",
+        "question_text": "Explain briefly about Software Configuration Management (SCM)?",
+        "exam_year_month": "June 2024",
+        "original_question_number": "7(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.117",
+        "question_text": "What do you understand by Feasibility Analysis? Explain.",
+        "exam_year_month": "June 2024",
+        "original_question_number": "7(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.118",
+        "question_text": "Schedule and Cost Estimation",
+        "exam_year_month": "June 2024",
+        "original_question_number": "8(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.119",
+        "question_text": "What is meant by software quality? Explain the metrics for maintenance.",
+        "exam_year_month": "June 2023",
+        "original_question_number": "5(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.120",
+        "question_text": "Discuss about SCM function in software engineering with suitable example.",
+        "exam_year_month": "June 2023",
+        "original_question_number": "5(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.121",
+        "question_text": "Program Comprehension Techniques",
+        "exam_year_month": "June 2023",
+        "original_question_number": "8(c)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.122",
+        "question_text": "What is risk and how to identify the risk in software engineering? Explain.",
+        "exam_year_month": "November 2023",
+        "original_question_number": "5(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.123",
+        "question_text": "Write the difference between reverse engineering and re-engineering.",
+        "exam_year_month": "November 2023",
+        "original_question_number": "5(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.124",
+        "question_text": "Explain the principles of risk assessment and mitigation.",
+        "exam_year_month": "November 2023",
+        "original_question_number": "6(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.125",
+        "question_text": "Write about project scheduling and tracking.",
+        "exam_year_month": "November 2023",
+        "original_question_number": "7(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.126",
+        "question_text": "Feasibility Analysis",
+        "exam_year_month": "November 2023",
+        "original_question_number": "8(c)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.127",
+        "question_text": "Explain why a software system that is used in a real world environment must change or become progressively less useful?",
+        "exam_year_month": "June 2020",
+        "original_question_number": "2(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.128",
+        "question_text": "Explain software configuration Management.",
+        "exam_year_month": "June 2020",
+        "original_question_number": "7(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.129",
+        "question_text": "How can we estimate the cost of software using COCOMO Model?",
+        "exam_year_month": "June 2020",
+        "original_question_number": "7(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.130",
+        "question_text": "Software Quality Assurance",
+        "exam_year_month": "June 2020",
+        "original_question_number": "8(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.131",
+        "question_text": "Reverse Engineering",
+        "exam_year_month": "June 2020",
+        "original_question_number": "8(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.132",
+        "question_text": "Risk Assessment",
+        "exam_year_month": "June 2020",
+        "original_question_number": "8(c)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.133",
+        "question_text": "What are software crisis? What are the main reasons of software crisis? What are the main reasons of higher software maintenance costs?",
+        "exam_year_month": "December 2020",
+        "original_question_number": "1(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.134",
+        "question_text": "Explain Reverse engineering.",
+        "exam_year_month": "December 2020",
+        "original_question_number": "6(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.135",
+        "question_text": "Explain cost estimation COCOMO model with example.",
+        "exam_year_month": "December 2020",
+        "original_question_number": "6(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.136",
+        "question_text": "Explain what is project planning. Why it is important?",
+        "exam_year_month": "December 2020",
+        "original_question_number": "7(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.137",
+        "question_text": "Software Configuration Management (SCM)",
+        "exam_year_month": "December 2020",
+        "original_question_number": "8(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.138",
+        "question_text": "Re-engineering",
+        "exam_year_month": "December 2020",
+        "original_question_number": "8(c)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.139",
+        "question_text": "Explain software configuration management in detail.",
+        "exam_year_month": "November 2022",
+        "original_question_number": "7(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.140",
+        "question_text": "Write the difference between the re-engineering and reverse engineering with diagrams.",
+        "exam_year_month": "November 2022",
+        "original_question_number": "7(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.141",
+        "question_text": "Risk management",
+        "exam_year_month": "November 2022",
+        "original_question_number": "8(c)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      }
+    ]
+  }
+]
