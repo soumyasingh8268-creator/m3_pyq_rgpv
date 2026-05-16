@@ -1,0 +1,792 @@
+[
+  {
+    "unit": "UNIT-01",
+    "questions": [
+      {
+        "serial_number": "Q.1",
+        "question_text": "Explain basic principles of computer architecture.",
+        "exam_year_month": "June 2023",
+        "original_question_number": "1. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.2",
+        "question_text": "Explain the following terms i) Stack organization ii) Bus structure and addressing modes iii) Fetch and execution cycle",
+        "exam_year_month": "June 2023",
+        "original_question_number": "2. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.3",
+        "question_text": "Discuss instruction types and explain execution of micro instruction.",
+        "exam_year_month": "June 2023",
+        "original_question_number": "2. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.4",
+        "question_text": "Write short notes on following: i) Semiconductor memories ii) Hardwired control unit iii) RISC and CISC iv) Micro instruction formats",
+        "exam_year_month": "June 2023",
+        "original_question_number": "8. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.5",
+        "question_text": "Draw and explain the architecture of a computer system.",
+        "exam_year_month": "November 2023",
+        "original_question_number": "1. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.6",
+        "question_text": "Explain the addressing modes with suitable examples.",
+        "exam_year_month": "November 2023",
+        "original_question_number": "1. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.7",
+        "question_text": "Explain the instruction formats for computer system.",
+        "exam_year_month": "November 2023",
+        "original_question_number": "4. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.8",
+        "question_text": "Micro-program sequencer",
+        "exam_year_month": "November 2023",
+        "original_question_number": "7. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.9",
+        "question_text": "Explain the role and significance of registers in a CPU's general register organization.",
+        "exam_year_month": "June 2024",
+        "original_question_number": "1. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.10",
+        "question_text": "Differentiate between Hardwired control unit and Micro-programmed control unit.",
+        "exam_year_month": "June 2024",
+        "original_question_number": "1. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.11",
+        "question_text": "What is register transfer language? Explain the representation of instructions in register transfer language with suitable examples ?",
+        "exam_year_month": "June 2024",
+        "original_question_number": "2. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.12",
+        "question_text": "Bus structure",
+        "exam_year_month": "June 2024",
+        "original_question_number": "8. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.13",
+        "question_text": "Differentiate between accumulator, index, stack and general-purpose registers in terms of their functions and usage.",
+        "exam_year_month": "December 2024",
+        "original_question_number": "1. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.14",
+        "question_text": "Discuss the sequence of steps involved in fetching an instruction from memory and executing it.",
+        "exam_year_month": "December 2024",
+        "original_question_number": "1. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.15",
+        "question_text": "Describe how micro instructions are arranged in control memory and how they are interpreted?",
+        "exam_year_month": "December 2024",
+        "original_question_number": "2. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.16",
+        "question_text": "Instruction types",
+        "exam_year_month": "December 2024",
+        "original_question_number": "8. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.17",
+        "question_text": "Discuss the structure and role of the program counter, instruction register and memory register during a fetch-execute cycle.",
+        "exam_year_month": "June 2025",
+        "original_question_number": "1. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.18",
+        "question_text": "How does the control word help in micro-operation execution? Illustrate with an example.",
+        "exam_year_month": "June 2025",
+        "original_question_number": "1. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.19",
+        "question_text": "Illustrate the concept of bus structure. How does it aid in CPU and memory communication?",
+        "exam_year_month": "June 2025",
+        "original_question_number": "2. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      }
+    ]
+  },
+  {
+    "unit": "UNIT-02",
+    "questions": [
+      {
+        "serial_number": "Q.20",
+        "question_text": "Write Booths algorithm. Also explain floating point arithmetic operation.",
+        "exam_year_month": "June 2023",
+        "original_question_number": "3. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.21",
+        "question_text": "Describe signal addition and subtraction in detail.",
+        "exam_year_month": "June 2023",
+        "original_question_number": "3. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.22",
+        "question_text": "Discuss the Booth's algorithm for multiplication of signed numbers.",
+        "exam_year_month": "November 2023",
+        "original_question_number": "2. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.23",
+        "question_text": "Discuss how two's complement is used for representing negative numbers and performing subtraction as addition with complement.",
+        "exam_year_month": "June 2024",
+        "original_question_number": "2. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.24",
+        "question_text": "Discuss how binary division is performed and the steps involved in dividing one binary number by another with flowchart.",
+        "exam_year_month": "June 2024",
+        "original_question_number": "3. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.25",
+        "question_text": "Design a 4-bit adder/subtractor circuit and explain how addition and subtraction are performed ?",
+        "exam_year_month": "June 2024",
+        "original_question_number": "3. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.26",
+        "question_text": "Draw the flowchart for Booth's algorithm for multiplication of signed 2's complement numbers and explain with an example?",
+        "exam_year_month": "December 2024",
+        "original_question_number": "2. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.27",
+        "question_text": "Describe the basic arithmetic operations supported by floating-point arithmetic, including addition, subtraction, multiplication and division.",
+        "exam_year_month": "December 2024",
+        "original_question_number": "3. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.28",
+        "question_text": "What components are required to design the arithmetic unit explain with neat sketch ?",
+        "exam_year_month": "December 2024",
+        "original_question_number": "3. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.29",
+        "question_text": "Explain 1's and 2's complement representation for negative numbers with examples.",
+        "exam_year_month": "June 2025",
+        "original_question_number": "2. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.30",
+        "question_text": "Describe Booth's algorithm for multiplication. Illustrate with a 4-bit example.",
+        "exam_year_month": "June 2025",
+        "original_question_number": "3. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.31",
+        "question_text": "Compare fixed point and floating point arithmetic operations with examples.",
+        "exam_year_month": "June 2025",
+        "original_question_number": "3. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      }
+    ]
+  },
+  {
+    "unit": "UNIT-03",
+    "questions": [
+      {
+        "serial_number": "Q.32",
+        "question_text": "Elaborate following with examples: i) Serial and parallel data transfer ii) Synchronous and asynchronous modes of data transfer",
+        "exam_year_month": "June 2023",
+        "original_question_number": "4. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.33",
+        "question_text": "Write notes on following: i) Direct memory access ii) PCI Bus and SCSI Bus",
+        "exam_year_month": "June 2023",
+        "original_question_number": "4. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.34",
+        "question_text": "What do you understand by direct memory access? Explain with block diagram how DMA operation is carried out.",
+        "exam_year_month": "November 2023",
+        "original_question_number": "2. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.35",
+        "question_text": "Differentiate between vectored and non-vectored interrupts.",
+        "exam_year_month": "November 2023",
+        "original_question_number": "3. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.36",
+        "question_text": "Write short notes on the USB interface.",
+        "exam_year_month": "November 2023",
+        "original_question_number": "6. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.37",
+        "question_text": "Explain the PCI, BUS and LRU algorithm in briefly.",
+        "exam_year_month": "November 2023",
+        "original_question_number": "8. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.38",
+        "question_text": "Why interface is needed in input output device? Explain how it is connected to I/O devices with neat sketch?",
+        "exam_year_month": "June 2024",
+        "original_question_number": "4. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.39",
+        "question_text": "Describe the strobe control and hand shaking methods in asynchronous data transfer.",
+        "exam_year_month": "June 2024",
+        "original_question_number": "4. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.40",
+        "question_text": "What is the need of I/O processor? Explain the working of I/O processor?",
+        "exam_year_month": "June 2024",
+        "original_question_number": "5. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.41",
+        "question_text": "SCSI Bus",
+        "exam_year_month": "June 2024",
+        "original_question_number": "8. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.42",
+        "question_text": "Discuss the fundamental differences between serial and parallel data transfer methods in terms of data transmission, speed and implementation complexity.",
+        "exam_year_month": "December 2024",
+        "original_question_number": "4. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.43",
+        "question_text": "What is direct memory transfer? Give an overview and block diagram of a DMA controller?",
+        "exam_year_month": "December 2024",
+        "original_question_number": "4. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.44",
+        "question_text": "Differentiate synchronous and asynchronous data transfer?",
+        "exam_year_month": "December 2024",
+        "original_question_number": "5. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.45",
+        "question_text": "PCI Bus",
+        "exam_year_month": "December 2024",
+        "original_question_number": "8. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.46",
+        "question_text": "How does USB differ from SCSI bus in terms of speed, cost and application?",
+        "exam_year_month": "June 2025",
+        "original_question_number": "4. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.47",
+        "question_text": "Write a comparative note on different types of I/O interfaces.",
+        "exam_year_month": "June 2025",
+        "original_question_number": "4. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.48",
+        "question_text": "Explain the working of PCI bus. How does it improve I/O performance?",
+        "exam_year_month": "June 2025",
+        "original_question_number": "5. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.49",
+        "question_text": "Direct Memory Access",
+        "exam_year_month": "June 2025",
+        "original_question_number": "8. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      }
+    ]
+  },
+  {
+    "unit": "UNIT-04",
+    "questions": [
+      {
+        "serial_number": "Q.50",
+        "question_text": "Compare following i) Main memory and secondary memory ii) Cache memory and Virtual memory",
+        "exam_year_month": "June 2023",
+        "original_question_number": "5. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.51",
+        "question_text": "Describe replacement algorithm and write steps to improve cache performance.",
+        "exam_year_month": "June 2023",
+        "original_question_number": "5. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.52",
+        "question_text": "Describe following in brief i) LRU algorithm ii) Tools compliment representation iii) Memory management hardware",
+        "exam_year_month": "June 2023",
+        "original_question_number": "7. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.53",
+        "question_text": "List the differences between volatile and non-volatile memories?",
+        "exam_year_month": "November 2023",
+        "original_question_number": "4. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.54",
+        "question_text": "Discuss memory hierarchy in computer system.",
+        "exam_year_month": "November 2023",
+        "original_question_number": "5. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.55",
+        "question_text": "Explain the mapping techniques in cache memory.",
+        "exam_year_month": "November 2023",
+        "original_question_number": "5. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.56",
+        "question_text": "Explain the following terms: i) Cache hit and Cache miss ii) Cache coherency",
+        "exam_year_month": "November 2023",
+        "original_question_number": "6. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.57",
+        "question_text": "What is memory organization? Discuss the different types of memory organization in computer system.",
+        "exam_year_month": "November 2023",
+        "original_question_number": "8. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.58",
+        "question_text": "Discuss the different types of secondary memory devices commonly used in computer systems, such as Hard Disk Drives (HDDs), magnetic tapes, and optical discs. Compare the advantages and disadvantages of each type.",
+        "exam_year_month": "June 2024",
+        "original_question_number": "5. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.59",
+        "question_text": "Define cache memory and explain its role in improving CPU performance. Discuss the principles of locality (temporal and spatial) and how they influence cache effectiveness.",
+        "exam_year_month": "June 2024",
+        "original_question_number": "6. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.60",
+        "question_text": "Describe the role of the Memory Management Unit (MMU) in a computer system. Explain how the MMU facilitates address translation between virtual addresses and physical addresses.",
+        "exam_year_month": "June 2024",
+        "original_question_number": "6. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.61",
+        "question_text": "Random Access Memory",
+        "exam_year_month": "June 2024",
+        "original_question_number": "8. c)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.62",
+        "question_text": "Explain the concept of memory hierarchy and its significance in modern computer systems.",
+        "exam_year_month": "December 2024",
+        "original_question_number": "5. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.63",
+        "question_text": "Compare and contrast different cache mapping techniques, including direct mapping, set-associative mapping and fully associative mapping. Discuss the advantages and disadvantages of each mapping technique.",
+        "exam_year_month": "December 2024",
+        "original_question_number": "6. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.64",
+        "question_text": "Explain the concept of memory segmentation and how it complements virtual memory. Discuss the advantages and challenges of using segmentation in memory management.",
+        "exam_year_month": "December 2024",
+        "original_question_number": "6. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.65",
+        "question_text": "Read Only Memory",
+        "exam_year_month": "December 2024",
+        "original_question_number": "8. c)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.66",
+        "question_text": "Differentiate magnetic tape, disk and optical storage based on access time, reliability and cost.",
+        "exam_year_month": "June 2025",
+        "original_question_number": "5. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.67",
+        "question_text": "How does cache memory improve system performance? Explain cache design.",
+        "exam_year_month": "June 2025",
+        "original_question_number": "6. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.68",
+        "question_text": "Write a program in Pseudo code to simulate page replacement using LRU.",
+        "exam_year_month": "June 2025",
+        "original_question_number": "6. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.69",
+        "question_text": "Virtual Memory",
+        "exam_year_month": "June 2025",
+        "original_question_number": "8. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.70",
+        "question_text": "Read Only Memory",
+        "exam_year_month": "June 2025",
+        "original_question_number": "8. c)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      }
+    ]
+  },
+  {
+    "unit": "UNIT-05",
+    "questions": [
+      {
+        "serial_number": "Q.71",
+        "question_text": "What is Multiprocessing? Discuss types of data transfer in detail.",
+        "exam_year_month": "June 2023",
+        "original_question_number": "1. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.72",
+        "question_text": "Explain characteristics and structure of multiprocessor.",
+        "exam_year_month": "June 2023",
+        "original_question_number": "6. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.73",
+        "question_text": "What is concept of pipelining? Differentiate vector processing and array processing.",
+        "exam_year_month": "June 2023",
+        "original_question_number": "6. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.74",
+        "question_text": "What is inter-processor communication and synchronization? Also describe inter-processor arbitration.",
+        "exam_year_month": "June 2023",
+        "original_question_number": "7. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.75",
+        "question_text": "Discuss multicore processor in detail.",
+        "exam_year_month": "June 2023",
+        "original_question_number": "8. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.76",
+        "question_text": "Explain the concept of pipelining.",
+        "exam_year_month": "November 2023",
+        "original_question_number": "3. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.77",
+        "question_text": "RISC Vs CISC",
+        "exam_year_month": "November 2023",
+        "original_question_number": "7. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.78",
+        "question_text": "Define RISC and CISC architectures and explain their fundamental differences.",
+        "exam_year_month": "June 2024",
+        "original_question_number": "7. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.79",
+        "question_text": "Discuss how pipelining improves instruction execution throughput and overall system performance in processors.",
+        "exam_year_month": "June 2024",
+        "original_question_number": "7. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.80",
+        "question_text": "Inter processor arbitration",
+        "exam_year_month": "June 2024",
+        "original_question_number": "8. d)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.81",
+        "question_text": "Describe different types of interconnection networks used in multiprocessor systems.",
+        "exam_year_month": "December 2024",
+        "original_question_number": "7. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.82",
+        "question_text": "Define array processing and explain its significance in computer architecture and parallel computing.",
+        "exam_year_month": "December 2024",
+        "original_question_number": "7. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.83",
+        "question_text": "Inter- processor communication and synchronization",
+        "exam_year_month": "December 2024",
+        "original_question_number": "8. d)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.84",
+        "question_text": "Describe the structure and working of inter-processor communication and synchronization.",
+        "exam_year_month": "June 2025",
+        "original_question_number": "7. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.85",
+        "question_text": "Compare RISC and CISC architectures with examples.",
+        "exam_year_month": "June 2025",
+        "original_question_number": "7. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      }
+    ]
+  }
+]
