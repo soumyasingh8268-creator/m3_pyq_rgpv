@@ -1,0 +1,1489 @@
+[
+  {
+    "unit": "UNIT-01",
+    "questions": [
+      {
+        "serial_number": "Q.1",
+        "question_text": "List the functions of OS. How operating system perform management task in a system?",
+        "exam_year_month": "June 2025",
+        "original_question_number": "Q.1(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.2",
+        "question_text": "System calls",
+        "exam_year_month": "June 2025",
+        "original_question_number": "Q.8(c)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.3",
+        "question_text": "In a multiprogramming and time sharing environment several users share system simultaneously. This situation can result in various security problems. i) What are two such problems? ii) Can we ensure the same degree of security in a time shared machine as we have in a dedicated machine? Explain your answer?",
+        "exam_year_month": "June 2024",
+        "original_question_number": "Q.1(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.4",
+        "question_text": "System Calls",
+        "exam_year_month": "June 2024",
+        "original_question_number": "Q.8(c)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.5",
+        "question_text": "Explain the evolution of operating system in detail.",
+        "exam_year_month": "November 2023",
+        "original_question_number": "Q.1(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.6",
+        "question_text": "Batch processing",
+        "exam_year_month": "November 2023",
+        "original_question_number": "Q.8(c)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.7",
+        "question_text": "Time-sharing",
+        "exam_year_month": "November 2023",
+        "original_question_number": "Q.8(d)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.8",
+        "question_text": "Define an operating system. What are the goals of an operating system? Explain.",
+        "exam_year_month": "June 2023",
+        "original_question_number": "Q.1(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.9",
+        "question_text": "What is meant by system call? How it can be used. How does an application program use these call during execution?",
+        "exam_year_month": "June 2023",
+        "original_question_number": "Q.2(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.10",
+        "question_text": "Time Sharing",
+        "exam_year_month": "June 2023",
+        "original_question_number": "Q.8(d)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.11",
+        "question_text": "Explain the different types of services in Operating system and its features.",
+        "exam_year_month": "November 2022",
+        "original_question_number": "Q.1(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.12",
+        "question_text": "Define the Utility programs with example. Explain system call.",
+        "exam_year_month": "November 2022",
+        "original_question_number": "Q.1(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.13",
+        "question_text": "What are system calls? Explain different categories of system calls with example?",
+        "exam_year_month": "June 2022",
+        "original_question_number": "Q.1(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.14",
+        "question_text": "What are the functionalities of Operating system ? Explain in detail.",
+        "exam_year_month": "June 2022",
+        "original_question_number": "Q.1(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.15",
+        "question_text": "What is meant by a System call? How it can be used? How does an application program use these calls during execution?",
+        "exam_year_month": "June 2020",
+        "original_question_number": "Q.1(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.16",
+        "question_text": "Write a short notes (Any two) i) Time sharing ii) Network iii) Batch processing",
+        "exam_year_month": "June 2020",
+        "original_question_number": "Q.2(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      }
+    ]
+  },
+  {
+    "unit": "UNIT-02",
+    "questions": [
+      {
+        "serial_number": "Q.17",
+        "question_text": "Give an example of an application in which data in a file should be accessed in following order. i) Sequentially ii) Randomly",
+        "exam_year_month": "June 2025",
+        "original_question_number": "Q.2(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.18",
+        "question_text": "Suppose that a disk drive has 5000 cylinders numbered 0 to 4999. The drive is currently serving a request at cylinder 143 and the previous request was at cylinder 125. The queue of pending request in FIFO order is - 86, 1470, 913, 1774, 948, 1509, 1022, 1750, 750, 750, 750, 750, 750, 130. Starting from current head position, what is the total distance that the disk arm moves to satisfy all pending request for each of following. i) SSTF ii) SCAN iii) LOOK",
+        "exam_year_month": "June 2025",
+        "original_question_number": "Q.2(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.19",
+        "question_text": "Contiguous and Linked Disk Allocation Method",
+        "exam_year_month": "December 2024",
+        "original_question_number": "Q.6(d)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.20",
+        "question_text": "Define the term \"Directory\". Explain any two schemes of logical directory structures.",
+        "exam_year_month": "December 2024",
+        "original_question_number": "Q.7",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.21",
+        "question_text": "Why do some systems keep track of the type of file, while others leave it to the user or simply do not implement multiple file types? Which system is better?",
+        "exam_year_month": "June 2024",
+        "original_question_number": "Q.2(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.22",
+        "question_text": "Consider a file system on a disk that has both logical and physical block sizes of 512 bytes. Assume that the information about each file is already in memory. For each of three allocation strategy (continuous, linked and indexed), how is the logical to physical address mapping accomplished in this system? (for indexed allocation assume that a file is always less than 512 blocks long).",
+        "exam_year_month": "June 2024",
+        "original_question_number": "Q.2(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.23",
+        "question_text": "What is a File? Write different file attributes and operations?",
+        "exam_year_month": "November 2023",
+        "original_question_number": "Q.2(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.24",
+        "question_text": "Explain disk structure. How data read and write form/on disk?",
+        "exam_year_month": "November 2023",
+        "original_question_number": "Q.3(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.25",
+        "question_text": "What is the Difference between SCAN and LOOK Disk scheduling algorithms?",
+        "exam_year_month": "November 2023",
+        "original_question_number": "Q.3(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.26",
+        "question_text": "Suppose that a disk drive has 200 cylinders, numbered 0 to 199. The work queue is: 23, 89, 132, 42, 187. Determine the total distance for the following disk scheduling algorithms: i) Scan ii) Look",
+        "exam_year_month": "June 2023",
+        "original_question_number": "Q.3(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.27",
+        "question_text": "List the advantages and disadvantages of Magnetic Tape memory.",
+        "exam_year_month": "June 2023",
+        "original_question_number": "Q.3(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.28",
+        "question_text": "Explain in detail about various ways of free space management.",
+        "exam_year_month": "June 2023",
+        "original_question_number": "Q.4(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.29",
+        "question_text": "Disk request come to a disk driver for cylinders in the order 10, 22, 20, 2, 40, 6 and 38 at a time when the disk drive is reading from cylinder 20. The seek time is 6 ms/cylinder. The total seek time if the disk arm scheduling algorithm is First-Come-First-Served (FCFS), and SCAN.",
+        "exam_year_month": "June 2023",
+        "original_question_number": "Q.6(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.30",
+        "question_text": "How many types of disk allocation methods describe Indexed method with merits and demerits.",
+        "exam_year_month": "June 2023",
+        "original_question_number": "Q.6(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.31",
+        "question_text": "What is a file? Briefly explain different directory structures. What kind of directory structure is used in UNIX?",
+        "exam_year_month": "June 2023",
+        "original_question_number": "Q.7(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.32",
+        "question_text": "Explain the Contiguous file allocation and its advantages and disadvantages",
+        "exam_year_month": "June 2022",
+        "original_question_number": "Q.3(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.33",
+        "question_text": "Explain the File protection with example.",
+        "exam_year_month": "June 2022",
+        "original_question_number": "Q.3(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.34",
+        "question_text": "What is Disk Scheduling ? Explain in detail the various algorithms of disk scheduling with examples.",
+        "exam_year_month": "June 2022",
+        "original_question_number": "Q.5(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.35",
+        "question_text": "Describe various space allocation strategies with their merits/demerits.",
+        "exam_year_month": "June 2020",
+        "original_question_number": "Q.2(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.36",
+        "question_text": "Define levels of RAIO",
+        "exam_year_month": "June 2020",
+        "original_question_number": "Q.8(c)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      }
+    ]
+  },
+  {
+    "unit": "UNIT-03",
+    "questions": [
+      {
+        "serial_number": "Q.37",
+        "question_text": "What are the five major activities of an operating system in regards to memory management?",
+        "exam_year_month": "June 2025",
+        "original_question_number": "Q.1(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.38",
+        "question_text": "Consider a variant of the RR algorithm where the entries in the ready queue are pointers to the PCB i) What would be the effect of putting two pointers to the same process in the ready queue. ii) What would be the major advantages and drawback of this scheme.",
+        "exam_year_month": "June 2025",
+        "original_question_number": "Q.3(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.39",
+        "question_text": "How many page faults occur for an optimal page replacement strategy for the following reference string for four page frames. 1 2 3 4 5 3 4 1 6 7 8 7 8 9 7 8 9 5 4 5 4 2",
+        "exam_year_month": "June 2025",
+        "original_question_number": "Q.3(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.40",
+        "question_text": "How process is differing from program? Describe process transition diagram in detail.",
+        "exam_year_month": "June 2025",
+        "original_question_number": "Q.7(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.41",
+        "question_text": "Explain the need for the Process Control Block (PCB) fields.",
+        "exam_year_month": "December 2024",
+        "original_question_number": "Q.1",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.42",
+        "question_text": "Given the following table: Answer the following questions: i) Give the scheduling sequence of these processes according to FCFS, Round Robin (Time Quantum=3), pre-emptive SJF. (a larger no. implies a higher priority). ii) Compute the turnaround time for each process for each of scheduling algorithms in part (i). iii) Compute the waiting time for each process for each of scheduling algorithms in part (i).",
+        "exam_year_month": "December 2024",
+        "original_question_number": "Q.2",
+        "table": {
+          "headers": [
+            "",
+            "Burst Time",
+            "Priority",
+            "Arrival Time"
+          ],
+          "data": [
+            [
+              "A:",
+              "6",
+              "4",
+              "0"
+            ],
+            [
+              "B:",
+              "10",
+              "1",
+              "2"
+            ],
+            [
+              "C:",
+              "2",
+              "2",
+              "1"
+            ],
+            [
+              "D:",
+              "3",
+              "3",
+              "3"
+            ]
+          ]
+        },
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.43",
+        "question_text": "How multilevel feedback queue scheduling differs from multilevel queue scheduling.",
+        "exam_year_month": "December 2024",
+        "original_question_number": "Q.3",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.44",
+        "question_text": "The following is the sequence of page requests: 1, 2, 3, 5, 4, 1, 2, 5, 3, 2, 4, 3. Assume that there are three frames. Now, how many page faults will occur if an Optimal Page Replacement algorithm is used to replace pages?",
+        "exam_year_month": "December 2024",
+        "original_question_number": "Q.5",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.45",
+        "question_text": "Thrashing",
+        "exam_year_month": "December 2024",
+        "original_question_number": "Q.6(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.46",
+        "question_text": "LRU algorithm",
+        "exam_year_month": "December 2024",
+        "original_question_number": "Q.6(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.47",
+        "question_text": "Process Control Block",
+        "exam_year_month": "December 2024",
+        "original_question_number": "Q.6(c)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.48",
+        "question_text": "Optimal Page Replacement algorithm",
+        "exam_year_month": "December 2024",
+        "original_question_number": "Q.6(e)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.49",
+        "question_text": "When do page-faults occur? Describe the action taken by the O.S when page-fault occurs.",
+        "exam_year_month": "December 2024",
+        "original_question_number": "Q.8",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.50",
+        "question_text": "What are the five major activities of an operating system in regards to process management?",
+        "exam_year_month": "June 2024",
+        "original_question_number": "Q.1(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.51",
+        "question_text": "What resources are used when a thread is created? How do they differ from those when a process is created?",
+        "exam_year_month": "June 2024",
+        "original_question_number": "Q.3(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.52",
+        "question_text": "Consider the following segment table What are the physical addresses for the following logical address? i) 0430 ii) 110 iii) 2500 iv) 3400",
+        "exam_year_month": "June 2024",
+        "original_question_number": "Q.3(b)",
+        "table": {
+          "headers": [
+            "Segment",
+            "Base",
+            "Length"
+          ],
+          "data": [
+            [
+              "0",
+              "219",
+              "600"
+            ],
+            [
+              "1",
+              "2300",
+              "14"
+            ],
+            [
+              "2",
+              "90",
+              "100"
+            ],
+            [
+              "3",
+              "1327",
+              "580"
+            ],
+            [
+              "4",
+              "1952",
+              "96"
+            ]
+          ]
+        },
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.53",
+        "question_text": "Can a system detect that some of its processes are starving? If your answer \"Yes\" explain how it can? If your answer no, explain how the system can deal with the starvation problem.",
+        "exam_year_month": "June 2024",
+        "original_question_number": "Q.4(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.54",
+        "question_text": "What are the benefits of mapping objects into virtual memory? Explain in detail.",
+        "exam_year_month": "June 2024",
+        "original_question_number": "Q.6(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.55",
+        "question_text": "What is Overlay? How to dynamic linking and loading perform in memory management?",
+        "exam_year_month": "June 2024",
+        "original_question_number": "Q.7(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.56",
+        "question_text": "Paging",
+        "exam_year_month": "June 2024",
+        "original_question_number": "Q.8(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.57",
+        "question_text": "Compare the following CPU scheduling algorithms, highlighting the strengths and limitation of each algorithms. i) FCFS ii) SRTF",
+        "exam_year_month": "November 2023",
+        "original_question_number": "Q.2(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.58",
+        "question_text": "What is process state? Explain state transition diagram.",
+        "exam_year_month": "November 2023",
+        "original_question_number": "Q.4(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.59",
+        "question_text": "Explain Thread Control Block.",
+        "exam_year_month": "November 2023",
+        "original_question_number": "Q.4(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.60",
+        "question_text": "What is Segmentation? Explain virtual to physical address mapping in a segmented system with the help of a diagram.",
+        "exam_year_month": "November 2023",
+        "original_question_number": "Q.5(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.61",
+        "question_text": "How many page faults does the LRU, FIFO and Optimal page replacement algorithm produce 7 1 2 0 3 0 4 2 3 0 3 2 1 2 0 1 7 0 1 assume frame size is 3?",
+        "exam_year_month": "November 2023",
+        "original_question_number": "Q.6(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.62",
+        "question_text": "Explain virtual memory in operating system. Discuss the advantages and disadvantages of non contiguous storage allocation.",
+        "exam_year_month": "November 2023",
+        "original_question_number": "Q.7(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.63",
+        "question_text": "Demand paging",
+        "exam_year_month": "November 2023",
+        "original_question_number": "Q.8(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.64",
+        "question_text": "Describe the differences among short term, medium term and long term scheduling.",
+        "exam_year_month": "June 2023",
+        "original_question_number": "Q.1(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.65",
+        "question_text": "Define Process States. Draw the diagram of PCB.",
+        "exam_year_month": "June 2023",
+        "original_question_number": "Q.2(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.66",
+        "question_text": "What is the difference between threads and process.",
+        "exam_year_month": "June 2023",
+        "original_question_number": "Q.4(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.67",
+        "question_text": "Explain paging and segmentation. How are they helpful in removing fragmentation?",
+        "exam_year_month": "June 2023",
+        "original_question_number": "Q.5(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.68",
+        "question_text": "Paged Segmentation.",
+        "exam_year_month": "June 2023",
+        "original_question_number": "Q.8(d)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.69",
+        "question_text": "What is Process ? Explain the process states diagram.",
+        "exam_year_month": "November 2022",
+        "original_question_number": "Q.2(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.70",
+        "question_text": "Consider the set of processes with arrival time (in milliseconds), CPU burst time (in milliseconds), and priority (0 is the highest priority) shown below. None of the processes have I/O burst time. Solve the problem using preemptive priority scheduling algorithm. Draw the Gantt chart for it. and calculate Average waiting time, Turn around time.",
+        "exam_year_month": "November 2022",
+        "original_question_number": "Q.2(b)",
+        "table": {
+          "headers": [
+            "Process",
+            "Arrival time",
+            "CPU Burst time",
+            "Priority"
+          ],
+          "data": [
+            [
+              "P1",
+              "0",
+              "11",
+              "2"
+            ],
+            [
+              "P2",
+              "5",
+              "28",
+              "0"
+            ],
+            [
+              "P3",
+              "12",
+              "2",
+              "3"
+            ],
+            [
+              "P4",
+              "2",
+              "10",
+              "1"
+            ],
+            [
+              "P5",
+              "9",
+              "16",
+              "4"
+            ]
+          ]
+        },
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.71",
+        "question_text": "What are the different criteria for evaluating the CPU scheduling algorithm?",
+        "exam_year_month": "November 2022",
+        "original_question_number": "Q.4(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.72",
+        "question_text": "Consider a system with byte-addressable memory, 32 bit logical addresses, 4 kilobyte page size and page table entries of 4 bytes each. The size of the page table in the system in megabytes.",
+        "exam_year_month": "November 2022",
+        "original_question_number": "Q.5(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.73",
+        "question_text": "Describe fixed and variable partitioned contiguous memory allocation scheme along with their merits and demerits.",
+        "exam_year_month": "November 2022",
+        "original_question_number": "Q.5(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.74",
+        "question_text": "Consider the following four processes, with the length of the CPU burst time given in milliseconds. Find Average Waiting time and Turnaround time for given Process using FCFS and SJF preemptive scheduling Algorithms with Gantt Chart?",
+        "exam_year_month": "June 2022",
+        "original_question_number": "Q.2(a)",
+        "table": {
+          "headers": [
+            "Process",
+            "Arrival Time",
+            "Burst Time"
+          ],
+          "data": [
+            [
+              "P1",
+              "1",
+              "6"
+            ],
+            [
+              "P2",
+              "1",
+              "5"
+            ],
+            [
+              "P3",
+              "2",
+              "5"
+            ],
+            [
+              "P4",
+              "2",
+              "3"
+            ]
+          ]
+        },
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.75",
+        "question_text": "What are the different criteria for evaluating the CPU scheduling algorithm?",
+        "exam_year_month": "June 2022",
+        "original_question_number": "Q.2(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.76",
+        "question_text": "Differentiate between Threads and Process. Explain the types of threads.",
+        "exam_year_month": "June 2022",
+        "original_question_number": "Q.4(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.77",
+        "question_text": "Calculate the number of bits required in the address for memory having size of 16 GB. Assume the memory is 4-byte addressable.",
+        "exam_year_month": "June 2022",
+        "original_question_number": "Q.6(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.78",
+        "question_text": "Calculate the size of memory if its address consists of 22 bits and the memory is 2- byte addressable.",
+        "exam_year_month": "June 2022",
+        "original_question_number": "Q.6(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.79",
+        "question_text": "Consider a single level paging scheme. The virtual address space is 4 MB and page size is 4 KB. What is the maximum page table entry size possible such that the entire page table fits well in one page?",
+        "exam_year_month": "June 2022",
+        "original_question_number": "Q.6(c)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.80",
+        "question_text": "In a virtual memory system, size of virtual address is 32-bit, size of physical address is 30-bit, page size is 4 Kbyte and size of each page table entry is 32-bit. The main memory is byte addressable. Which one of the following is the maximum number of bits that can be used for storing protection and other information in each page table entry?",
+        "exam_year_month": "June 2022",
+        "original_question_number": "Q.7(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.81",
+        "question_text": "Process states diagram",
+        "exam_year_month": "June 2022",
+        "original_question_number": "Q.8(d)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.82",
+        "question_text": "Define Process States. Draw the diagram of PCB.",
+        "exam_year_month": "June 2020",
+        "original_question_number": "Q.1(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.83",
+        "question_text": "Consider the following set of processes. Process Burst time Arrival time P1 3 0 P2 5 1 P3 2 2 P4 5 3 P5 5 4 Develop a Gantt-chart and calculate the average waiting time using: i) FCFS ii) SJF iii) Round Robin (q = 1)",
+        "exam_year_month": "June 2020",
+        "original_question_number": "Q.3(a)",
+        "table": {
+          "headers": [
+            "Process",
+            "Burst time",
+            "Arrival time"
+          ],
+          "data": [
+            [
+              "P1",
+              "3",
+              "0"
+            ],
+            [
+              "P2",
+              "5",
+              "1"
+            ],
+            [
+              "P3",
+              "2",
+              "2"
+            ],
+            [
+              "P4",
+              "5",
+              "3"
+            ],
+            [
+              "P5",
+              "5",
+              "4"
+            ]
+          ]
+        },
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.84",
+        "question_text": "Compare Paging and Segmentation with example.",
+        "exam_year_month": "June 2020",
+        "original_question_number": "Q.4(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.85",
+        "question_text": "What is meant by Thrashing? Explain various causes of thrashing.",
+        "exam_year_month": "June 2020",
+        "original_question_number": "Q.4(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.86",
+        "question_text": "Consider the main memory with capacity of 3 frames. Assume that pages of a process are referenced in the order as given below: 7, 0, 1, 2, 0, 3, 0, 4 , 2, 3, 0, 3 Which one is better FIFO or LRU and why?",
+        "exam_year_month": "June 2020",
+        "original_question_number": "Q.5(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.87",
+        "question_text": "Explain the concept of dirty bit for improving the performance during page fault.",
+        "exam_year_month": "June 2020",
+        "original_question_number": "Q.5(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.88",
+        "question_text": "What is Virtual Memory? Explain the concept of demand paging.",
+        "exam_year_month": "June 2020",
+        "original_question_number": "Q.6(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.89",
+        "question_text": "Explain how logical memory address are translated into physical memory address in segmented memory management system with example.",
+        "exam_year_month": "June 2020",
+        "original_question_number": "Q.6(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      }
+    ]
+  },
+  {
+    "unit": "UNIT-04",
+    "questions": [
+      {
+        "serial_number": "Q.90",
+        "question_text": "Suppose a process P wants to wait for two messages, one from mailbox A and one from mailbox B. What sequence of send and receive should it execute.",
+        "exam_year_month": "June 2025",
+        "original_question_number": "Q.4(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.91",
+        "question_text": "Why might a system use interrupt driven I/O to manage a single serial port but polling I/O to manage a front end processor, such as a terminal concentrator.",
+        "exam_year_month": "June 2025",
+        "original_question_number": "Q.4(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.92",
+        "question_text": "Define a semaphore for dining philosopher's problem.",
+        "exam_year_month": "June 2025",
+        "original_question_number": "Q.6(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.93",
+        "question_text": "Explain concurrency controls? What are the differences between real and virtual concurrency?",
+        "exam_year_month": "June 2025",
+        "original_question_number": "Q.7(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.94",
+        "question_text": "Deadlock prevention and avoidance",
+        "exam_year_month": "June 2025",
+        "original_question_number": "Q.8(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.95",
+        "question_text": "What is Resource Allocation Graph? Explain the occurrence and avoidance of deadlock graphically among 3 processes and 3 resources.",
+        "exam_year_month": "December 2024",
+        "original_question_number": "Q.4",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.96",
+        "question_text": "Interrupts",
+        "exam_year_month": "December 2024",
+        "original_question_number": "Q.6(f)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.97",
+        "question_text": "What is the meaning of the term busy waiting? What another kind of waiting are there in an operating system? Can busy waiting be avoided altogether? Explain your answer.",
+        "exam_year_month": "June 2024",
+        "original_question_number": "Q.4(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.98",
+        "question_text": "Why Semaphore is important in OS? Explain Binary and counting semaphores with suitable example.",
+        "exam_year_month": "June 2024",
+        "original_question_number": "Q.7(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.99",
+        "question_text": "Synchronization",
+        "exam_year_month": "June 2024",
+        "original_question_number": "Q.8(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.100",
+        "question_text": "Explain the concept of buffering and spooling.",
+        "exam_year_month": "November 2023",
+        "original_question_number": "Q.1(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.101",
+        "question_text": "Describe about how recovery from deadlock?",
+        "exam_year_month": "November 2023",
+        "original_question_number": "Q.5(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.102",
+        "question_text": "Write a semaphore solution for dining philosopher's problem.",
+        "exam_year_month": "November 2023",
+        "original_question_number": "Q.6(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.103",
+        "question_text": "What do you mean by deadlock prevention? A computer has six tape drive with a processes competing for them. Each process need two tape drives for which values of n the system is deadlock free.",
+        "exam_year_month": "June 2023",
+        "original_question_number": "Q.5(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.104",
+        "question_text": "Explain mutual exclusion with suitable example.",
+        "exam_year_month": "June 2023",
+        "original_question_number": "Q.6(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.105",
+        "question_text": "Discuss Reader-Writers solution using Monitors.",
+        "exam_year_month": "June 2023",
+        "original_question_number": "Q.6(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.106",
+        "question_text": "Explain the deadlock recovery in brief.",
+        "exam_year_month": "June 2023",
+        "original_question_number": "Q.7(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.107",
+        "question_text": "Explain the I/O buffering and Interrupt driven operation in short.",
+        "exam_year_month": "June 2023",
+        "original_question_number": "Q.7(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.108",
+        "question_text": "Concurrent Programming",
+        "exam_year_month": "June 2023",
+        "original_question_number": "Q.8(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.109",
+        "question_text": "Consider the resource allocation graph in the figure Find if the system is in a deadlock state otherwise find a safe sequence.",
+        "exam_year_month": "November 2022",
+        "original_question_number": "Q.3(a)",
+        "table": null,
+        "matrix": null,
+        "graph": {
+          "vertices": [
+            "P1",
+            "P2",
+            "P3",
+            "R1",
+            "R2"
+          ],
+          "edges": [
+            {
+              "from": "R1",
+              "to": "P1"
+            },
+            {
+              "from": "P1",
+              "to": "R2"
+            },
+            {
+              "from": "R2",
+              "to": "P2"
+            },
+            {
+              "from": "P2",
+              "to": "R1"
+            },
+            {
+              "from": "R2",
+              "to": "P3"
+            }
+          ]
+        }
+      },
+      {
+        "serial_number": "Q.110",
+        "question_text": "Difference between Deadlock and Starvation. Explain the necessary Condition for Deadlock.",
+        "exam_year_month": "November 2022",
+        "original_question_number": "Q.3(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.111",
+        "question_text": "Explain the types of Semaphores in process synchronization.",
+        "exam_year_month": "November 2022",
+        "original_question_number": "Q.4(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.112",
+        "question_text": "Given 3 processes A, B and C, three resources x,y and z and following events, i) A requests x ii) A requests y iii) B requests y iv) B requests z v) C requests z vi) C requests x vii) C requests y Assume that requested resources should always be allocated to the request process if it is available. Draw the resource allocation graph for the sequences. And also mention whether it is a deadlock? If it is, how to recover the deadlock..",
+        "exam_year_month": "June 2022",
+        "original_question_number": "Q.4(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.113",
+        "question_text": "Explain three requirements that a solution to critical-section problem must satisfy.",
+        "exam_year_month": "June 2022",
+        "original_question_number": "Q.5(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.114",
+        "question_text": "What is Semaphores? Explain the Binary and Counting Semaphores.",
+        "exam_year_month": "June 2022",
+        "original_question_number": "Q.7(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.115",
+        "question_text": "I/O Buffering",
+        "exam_year_month": "June 2022",
+        "original_question_number": "Q.8(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.116",
+        "question_text": "Kernel I/O subsystem",
+        "exam_year_month": "June 2022",
+        "original_question_number": "Q.8(c)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.117",
+        "question_text": "Briefly explain the following. i) Mutual exclusion ii) Critical section problem",
+        "exam_year_month": "June 2020",
+        "original_question_number": "Q.3(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.118",
+        "question_text": "Consider following Snapshot of a system: Allocation Max Available ABC ABC ABC P0 101 431 330 P1 112 214 P2 103 133 P3 200 541 Answer the following questions using Bankers Algorithm i) Is the system in Safe state ii) What is the content of the Matrix need?",
+        "exam_year_month": "June 2020",
+        "original_question_number": "Q.7(a)",
+        "table": {
+          "headers": [
+            "",
+            "Allocation ABC",
+            "Max ABC",
+            "Available ABC"
+          ],
+          "data": [
+            [
+              "P0",
+              "101",
+              "431",
+              "330"
+            ],
+            [
+              "P1",
+              "112",
+              "214",
+              ""
+            ],
+            [
+              "P2",
+              "103",
+              "133",
+              ""
+            ],
+            [
+              "P3",
+              "200",
+              "541",
+              ""
+            ]
+          ]
+        },
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.119",
+        "question_text": "What do you mean by Semaphore? Explain its uses and its implementation.",
+        "exam_year_month": "June 2020",
+        "original_question_number": "Q.7(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      }
+    ]
+  },
+  {
+    "unit": "UNIT-05",
+    "questions": [
+      {
+        "serial_number": "Q.120",
+        "question_text": "What aspects of a distributed system would you select for a system running on a totally reliable network.",
+        "exam_year_month": "June 2025",
+        "original_question_number": "Q.5(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.121",
+        "question_text": "To build robust distributed systems, you must know what kinds of failures can occur. List three possible types of failures in a distributed system.",
+        "exam_year_month": "June 2025",
+        "original_question_number": "Q.5(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.122",
+        "question_text": "Describe a method for process migration across different architecture running. i) The same operating system ii) Different operating system",
+        "exam_year_month": "June 2025",
+        "original_question_number": "Q.6(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.123",
+        "question_text": "Kernel architecture in Unix",
+        "exam_year_month": "June 2025",
+        "original_question_number": "Q.8(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.124",
+        "question_text": "What are the advantages and disadvantages of making the computer network transparent to the user?",
+        "exam_year_month": "June 2024",
+        "original_question_number": "Q.5(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.125",
+        "question_text": "To build a robust distributed systems, you must know what kinds of failures can occurs. List three possible types of failures in a distributed system.",
+        "exam_year_month": "June 2024",
+        "original_question_number": "Q.5(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.126",
+        "question_text": "What are the benefits of a DFS when compared to a file system in a centralized system?",
+        "exam_year_month": "June 2024",
+        "original_question_number": "Q.6(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.127",
+        "question_text": "Discuss the design issues of distributed operating system.",
+        "exam_year_month": "November 2023",
+        "original_question_number": "Q.7(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.128",
+        "question_text": "Worms and Virus",
+        "exam_year_month": "November 2023",
+        "original_question_number": "Q.8(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.129",
+        "question_text": "Explain file system used in Linux and Windows.",
+        "exam_year_month": "June 2023",
+        "original_question_number": "Q.7(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.130",
+        "question_text": "Virus",
+        "exam_year_month": "June 2023",
+        "original_question_number": "Q.8(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.131",
+        "question_text": "Remote Procedure Call (RPC)",
+        "exam_year_month": "June 2023",
+        "original_question_number": "Q.8(c)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.132",
+        "question_text": "Distributed operating system.",
+        "exam_year_month": "November 2022",
+        "original_question_number": "Q.8(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.133",
+        "question_text": "Multiprocessor operating system.",
+        "exam_year_month": "November 2022",
+        "original_question_number": "Q.8(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.134",
+        "question_text": "Network Operating system.",
+        "exam_year_month": "November 2022",
+        "original_question_number": "Q.8(c)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.135",
+        "question_text": "Multiprocessor Operating system",
+        "exam_year_month": "June 2022",
+        "original_question_number": "Q.8(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.136",
+        "question_text": "Remote Procedure Call (RPC)",
+        "exam_year_month": "June 2020",
+        "original_question_number": "Q.8(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.137",
+        "question_text": "Worms and Virus",
+        "exam_year_month": "June 2020",
+        "original_question_number": "Q.8(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      }
+    ]
+  }
+]
